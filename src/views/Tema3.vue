@@ -37,7 +37,7 @@
           .row.justify-content-center.align-items-center.mb-3
             .avatar-circular.mb-lg-0.mb-3(data-aos="fade-left")
             .col-12.col-lg-10(data-aos="fade-left")
-              h6 Aumentar el engagement
+              h6 Aumentar el <em>engagement</em>
               p.linea-solida.mb-0 Generar interacción con la audiencia. 
           .row.justify-content-center.align-items-center.mb-3
             .avatar-circular.mb-lg-0.mb-3(data-aos="fade-left")
@@ -53,7 +53,7 @@
             .avatar-circular.mb-lg-0.mb-3(data-aos="fade-left")
             .col-12.col-lg-10(data-aos="fade-left")
               h6 Educar al público
-              p.linea-solida.mb-0 Impartir información relevante que genere valor
+              p.linea-solida.mb-0 Impartir información relevante que genere valor.
           .row.justify-content-center.align-items-center.mb-0
             .avatar-circular.mb-lg-0.mb-3(data-aos="fade-left")
             .col-12.col-lg-10(data-aos="fade-left")
@@ -66,7 +66,7 @@
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-5
               .row.justify-content-center.align-items-center
                 .col-12.col-lg-8.p-4.order-2.order-lg-1
-                  p.cita-decorada__texto  <B>Ejemplo empresarial:</B> HubSpot estructura sus estrategias de contenido con el objetivo de educar a su audiencia, publicando blogs, tutoriales y cursos gratuitos sobre marketing digital.
+                  p.cita-decorada__texto  <B>Ejemplo empresarial:</B> HubSpot estructura sus estrategias de contenido con el objetivo de educar a su audiencia, publicando blogs, tutoriales y cursos gratuitos sobre <em>marketing</em> digital.
                 .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema_3/img_5.png',  class="img-fluid cita-decorada__imagen-flotante-6")
 
@@ -187,7 +187,7 @@
                 td  Notion
               tr
                 td  HubSpot
-                td  Software avanzado de gestión de contenido y automatización de marketing.
+                td  <em>Software</em> avanzado de gestión de contenido y automatización de <em>marketing</em>.
                 td  HubSpot
 
 </template>
