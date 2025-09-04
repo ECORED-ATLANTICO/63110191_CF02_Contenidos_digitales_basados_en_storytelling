@@ -10,20 +10,21 @@
       .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="fade-left")
         figure
           img(src="@/assets/curso/sintesis/img_1.png", class="img-fluid")
-      .col-12.col-lg-8
-        p.mb-1(data-aos="fade-left") Este componente ofrece una visión integral del storytelling como herramienta estratégica para la creación de contenidos digitales con propósito. A lo largo de sus seis unidades temáticas, se abordan los fundamentos narrativos, su impacto en la comunicación y el marketing, así como las conexiones emocionales que fortalecen el vínculo entre marca y audiencia.
-        p.mb-3(data-aos="fade-left") Se exploran diversos tipos de narrativas y se analizan casos de éxito como Airbnb, Dove y Spotify, que demuestran cómo las historias bien construidas generan confianza, fidelización y posicionamiento. Además, se presentan técnicas para fortalecer el engagement, adaptando los relatos a formatos digitales como blogs, redes sociales, videos y experiencias interactivas.
-      .col-12.col-lg-1
-        figure
-          img(src="@/assets/curso/sintesis/img_2.png", class="img-fluid")     
+      .col-12.col-lg-8.mb-lg-0.mb-0(data-aos="fade-left")
+        .row.justify-content-center.align-items-stard.mb-2
+          .col-12.col-lg-10.mb-0
+            p.mb-0 Este componente ofrece una visión integral del storytelling como herramienta estratégica para la creación de contenidos digitales con propósito. A lo largo de sus seis unidades temáticas, se abordan los fundamentos narrativos, su impacto en la comunicación y el marketing, así como las conexiones emocionales que fortalecen el vínculo entre marca y audiencia.
+          .col-12.col-lg-2.d-none.d-lg-block.mb-0
+            figure
+              img(src="@/assets/curso/sintesis/img_2.png", class="img-fluid")  
+        p.mb-0 Se exploran diversos tipos de narrativas y se analizan casos de éxito como Airbnb, Dove y Spotify, que demuestran cómo las historias bien construidas generan confianza, fidelización y posicionamiento. Además, se presentan técnicas para fortalecer el engagement, adaptando los relatos a formatos digitales como blogs, redes sociales, videos y experiencias interactivas.
 
     .row.justify-content-center.align-items-stard.mb-3
-      .col-12-col-lg-9  
-      .cita-decorada
-        blockquote.cita-decorada__caja.cita-decorada__caja--fondo-6
-          p.mb-0.p-5(data-aos="fade-left") El resto del componente se enfoca en la planificación y producción de contenidos, incorporando herramientas como mapas narrativos, calendarios editoriales y plataformas digitales como Canva, CapCut y Trello. Se abordan los tipos y características del contenido digital, junto con las etapas clave del proceso de producción, desde la definición de objetivos hasta la edición final. Además, se desarrollan técnicas de redacción persuasiva y narrativa digital que permiten construir mensajes coherentes, emocionales y adaptados a distintos formatos. El componente también incluye criterios para evaluar la calidad técnica y narrativa de los recursos, asegurando que cada pieza cumpla con los estándares comunicacionales.
-    
-      .col-8.col-lg-1.mb-lg-0.mb-3(data-aos="fade-left")
+      .col-12.col-lg-9.order-2.order-lg-1(data-aos="fade-left")
+        .cita-decorada
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-6
+            p.mb-0.p-4 El resto del componente se enfoca en la planificación y producción de contenidos, incorporando herramientas como mapas narrativos, calendarios editoriales y plataformas digitales como Canva, CapCut y Trello. Se abordan los tipos y características del contenido digital, junto con las etapas clave del proceso de producción, desde la definición de objetivos hasta la edición final. Además, se desarrollan técnicas de redacción persuasiva y narrativa digital que permiten construir mensajes coherentes, emocionales y adaptados a distintos formatos. El componente también incluye criterios para evaluar la calidad técnica y narrativa de los recursos, asegurando que cada pieza cumpla con los estándares comunicacionales.
+      .col-8.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3(data-aos="fade-left")
         figure
           img(src="@/assets/curso/sintesis/img_3.png", class="img-fluid")
 
