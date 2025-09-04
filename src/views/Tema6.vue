@@ -69,7 +69,7 @@
         figure
           img(src="@/assets/curso/temas/tema_6/img_5.png", data-aos="zoom-in")
       .col-12.col-lg-10(data-aos="fade-left")
-        p.mb-3El inicio de toda historia digital debe cumplir la misión de capturar al lector antes de que se desplace hacia otro contenido. Los titulares con intriga generan curiosidad y motivan el clic o la lectura. Los giros narrativos, inspirados en técnicas literarias, permiten cambiar la perspectiva en pocos segundos, sorprendiendo al usuario y reforzando la atención sostenida. 
+        p.mb-3 El inicio de toda historia digital debe cumplir la misión de capturar al lector antes de que se desplace hacia otro contenido. Los titulares con intriga generan curiosidad y motivan el clic o la lectura. Los giros narrativos, inspirados en técnicas literarias, permiten cambiar la perspectiva en pocos segundos, sorprendiendo al usuario y reforzando la atención sostenida. 
         .row.justify-content-center.align-items-center.mb-5
           .col-12.col-lg-9.order-2.order-lg-1
             .cajon.color-terciario-5.p-4.mb-3
@@ -85,8 +85,8 @@
           h5 Figura 7.
           |    Técnicas para captar la atención
         figure
-          img(src="@/assets/curso/temas/tema_6/img_7.svg", class="img-fluid d-none d-lg-block img100")
-          img(src="@/assets/curso/temas/tema_6/img_8.svg", class="img-fluid d-block d-lg-none img100")
+          img(src="@/assets/curso/temas/tema_6/img_7.svg", class="img-fluid d-none d-lg-block img100" alt="En la Ilustración se muestran tres técnicas para captar la atención: Titulares con intriga: ¿Qué pasaría si tu historia empezara con una pregunta? Giros narrativos: rompimiento de expectativas en pocos segundos. Anclaje emocional: conexión desde el primer mensaje con valores o experiencias personales (Heath & Heath, 2007).")
+          img(src="@/assets/curso/temas/tema_6/img_8.svg", class="img-fluid d-block d-lg-none img100" alt="En la Ilustración se muestran tres técnicas para captar la atención: Titulares con intriga: ¿Qué pasaría si tu historia empezara con una pregunta? Giros narrativos: rompimiento de expectativas en pocos segundos. Anclaje emocional: conexión desde el primer mensaje con valores o experiencias personales (Heath & Heath, 2007).")
         figcaption 
           p <b>Fuente:</b> SENA, 2025.
 
@@ -129,7 +129,7 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-12
             .row.justify-content-center.align-items-center
               .col-12.col-lg-8.p-4.order-2.order-lg-1
-                p.cita-decorada__texto <B>Ejemplo empresarial:</B> un ejemplo emblemático es la campaña de Coca-Cola “Comparte una Coca-Cola”, que convirtió un producto cotidiano en una historia personal al incluir nombres propios en las botellas. Esta iniciativa apeló a la identificación del consumidor y generó millones de interacciones espontáneas (Heath & Heath, 2007).
+                p.cita-decorada__texto <B>Ejemplo empresarial.</B> un ejemplo emblemático es la campaña de Coca-Cola “Comparte una Coca-Cola”, que convirtió un producto cotidiano en una historia personal al incluir nombres propios en las botellas. Esta iniciativa apeló a la identificación del consumidor y generó millones de interacciones espontáneas (Heath & Heath, 2007).
               .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                 img(src="@/assets/curso/temas/tema_6/img_12.png",  class="img-fluid cita-decorada__imagen-flotante-10")
     

@@ -358,7 +358,7 @@ export default {
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre',
-          cargo: 'Responsable de línea de producció',
+          cargo: 'Responsable de línea de producción',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
       ],

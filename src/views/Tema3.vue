@@ -177,19 +177,19 @@
               tr
                 td  Trello
                 td  Ideal para la planificación visual de contenidos mediante tableros interactivos.
-                td  Trello
+                td  <a href="https://trello.com/es" target="_blank"><u>Trello</u></a>
               tr
                 td  Google Calendar
                 td  Facilita la programación y coordinación de publicaciones en distintos medios.
-                td  Google
+                td  <a href="https://calendar.google.com/calendar/u/0/r" target="_blank"><u>Google</u></a>
               tr
                 td  Notion
                 td  Permite organizar mapas de contenido y estructurar información para equipos.
-                td  Notion
+                td  <a href="https://www.notion.com/es" target="_blank"><u>Notion</u></a>
               tr
                 td  HubSpot
                 td  <em>Software</em> avanzado de gestión de contenido y automatización de <em>marketing</em>.
-                td  HubSpot
+                td  <a href="https://www.hubspot.es/" target="_blank"><u>HubSpot</u></a>
 
 </template>
 
