@@ -57,19 +57,29 @@
           ul.list-unstyled
             li.d-flex.align-items-start.mb-1
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #6B8099; font-size: 15px; line-height: 1.5;")
-              |   <B>Definición de objetivos:</B>  determinar la intención y propósito del contenido.
+              span
+                <strong>Definición de objetivos:</strong> 
+                  |  determinar la intención y propósito del contenido.
             li.d-flex.align-items-start.mb-1
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #6B8099; font-size: 15px; line-height: 1.5;")
-              |   <B>Investigación y recopilación de información:</B>  identificar fuentes confiables y referencias clave.
+              span
+                <strong>Investigación y recopilación de información:</strong> 
+                  |  identificar fuentes confiables y referencias clave.  
             li.d-flex.align-items-start.mb-1
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #6B8099; font-size: 15px; line-height: 1.5;")
-              |   <B>Creación y estructuración:</B>  redactar, diseñar y producir el contenido digital.
+              span
+                <strong>Creación y estructuración:</strong> 
+                  |  redactar, diseñar y producir el contenido digital.
             li.d-flex.align-items-start.mb-1
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #6B8099; font-size: 15px; line-height: 1.5;")
-              |   <B>Optimización y edición:</B>  ajustar elementos gráficos y narrativos para mejorar su impacto.
+              span
+                <strong>Optimización y edición:</strong> 
+                  |  ajustar elementos gráficos y narrativos para mejorar su impacto. 
             li.d-flex.align-items-start.mb-1
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #6B8099; font-size: 15px; line-height: 1.5;")
-              |   <B>Distribución y monitoreo:</B>  publicar el contenido y medir su rendimiento.
+              span
+                <strong>Distribución y monitoreo:</strong> 
+                  |  publicar el contenido y medir su rendimiento.
 
     separador  
 
