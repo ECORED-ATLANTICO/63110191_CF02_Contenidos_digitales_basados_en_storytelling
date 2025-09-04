@@ -82,7 +82,7 @@
         figure
           img(src="@/assets/curso/temas/tema_4/img_5.png", class="img-fluid")
       .col-12.col-lg-8
-        p.mb-2(data-aos="fade-left") La redacción persuasiva en entornos digitales no solo busca informar: pretende provocar emociones, generar acción y crear conexión significativa con quien lee. En el contexto del storytelling, esta técnica se potencia al integrar estructuras narrativas que permiten acompañar al lector a través de una historia. 
+        p.mb-2(data-aos="fade-left") La redacción persuasiva en entornos digitales no solo busca informar: pretende provocar emociones, generar acción y crear conexión significativa con quien lee. En el contexto del <em>storytelling</em>, esta técnica se potencia al integrar estructuras narrativas que permiten acompañar al lector a través de una historia. 
         .bloque-texto-b.color-acento-contenido-5.p-4.mb-3(data-aos="fade-left")
           .bloque-texto-b__texto
             i.fas.fa-quote-left
@@ -97,7 +97,7 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-7
             .row.justify-content-center.align-items-center
               .col-12.col-lg-8.p-4.order-2.order-lg-1
-                p.cita-decorada__texto  <B>Ejemplo empresarial:</B> Dove, en su campaña Real Beauty, muestran cómo la redacción persuasiva puede empoderar. Los testimonios reales, acompañados de frases como “la belleza está en lo auténtico”, generaron identificación masiva, reforzando valores sociales. En contraste, Nike utiliza estructuras breves como “You don’t win silver, you lose gold”, que   evocan competitividad, ambición y determinación, apelando al deseo de superación del lector.
+                p.cita-decorada__texto  <B>Ejemplo empresarial:</B> Dove, en su campaña <em>Real Beauty</em>, muestran cómo la redacción persuasiva puede empoderar. Los testimonios reales, acompañados de frases como “la belleza está en lo auténtico”, generaron identificación masiva, reforzando valores sociales. En contraste, Nike utiliza estructuras breves como <em>“You don’t win silver, you lose gold”</em>, que   evocan competitividad, ambición y determinación, apelando al deseo de superación del lector.
               .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                 img(src='@/assets/curso/temas/tema_4/img_7.png',  class="img-fluid cita-decorada__imagen-flotante-7")
 
@@ -106,11 +106,11 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema_4/img_8.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La narrativa digital efectiva se apoya en estos principios para construir mensajes que trasciendan el formato y se integren en la experiencia del usuario. Las técnicas incluyen el uso de verbos de acción, metáforas resonantes, estructuras tipo “problemasolución” y la incorporación de preguntas retóricas. También es clave el uso del lenguaje positivo y el diseño de una voz de marca auténtica, coherente y reconocible. 
+        p.mb-0 La narrativa digital efectiva se apoya en estos principios para construir mensajes que trasciendan el formato y se integren en la experiencia del usuario. Las técnicas incluyen el uso de verbos de acción, metáforas resonantes, estructuras tipo “problema - solución” y la incorporación de preguntas retóricas. También es clave el uso del lenguaje positivo y el diseño de una voz de marca auténtica, coherente y reconocible. 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10.mb-3(data-aos="fade-left")
-        p.mb-0 Según Heath & Heath (2007), las ideas “pegajosas” tienen seis atributos: simplicidad, sorpresa, concreción, credibilidad, emoción y narrativa; estas características funcionan como marco para la redacción persuasiva orientada al engagement digital.
+        p.mb-0 Según Heath & Heath (2007), las ideas “pegajosas” tienen seis atributos: simplicidad, sorpresa, concreción, credibilidad, emoción y narrativa; estas características funcionan como marco para la redacción persuasiva orientada al <em>engagement</em> digital.
       .col-12.col-lg-10.mb-3(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
             h5 Tabla 4.
@@ -138,13 +138,13 @@
                 td  Permite organizar mapas de contenido y estructurar información para equipos.
                 td  Notion
               tr
-                td  Problema-solución
+                td  Problema - solución
                 td  Estructura convincente
                 td  “Demasiado tráfico. Descárgalo en segundos.” - Waze
               tr
                 td Frase corta con acción
                 td Estimula decisión inmediata
-                td “Suscríbete y transforma tu rutina” - Headspace
+                td “Suscríbete y transforma tu rutina” - <em>Headspace</em>
       
       .col-12.col-lg-10.mb-3
 
@@ -172,7 +172,7 @@
         .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
           .avatar-circular--2.mb-lg-0.mb-3
           .col-10
-            p.linea-solida.mb-0 <B>Mejora la interacción y el engagement:</B> adecuar el formato según el canal permite captar mejor la atención.
+            p.linea-solida.mb-0 <B>Mejora la interacción y el <em>engagement</em>:</B> adecuar el formato según el canal permite captar mejor la atención.
       .col-12.col-lg-5.mb-4
         .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
           .avatar-circular--2.mb-lg-0.mb-3
@@ -183,7 +183,7 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-7
             .row.justify-content-center.align-items-center
               .col-12.col-lg-8.p-4.order-2.order-lg-1
-                p.cita-decorada__texto <B>Ejemplo empresarial:</B> <em>Netflix</em> adapta sus campañas promocionales según el canal: en redes sociales utiliza videos cortos, en blogs desarrolla análisis de tendencias y en plataformas de streaming lanza trailers completos para captar la audiencia de manera más efectiva.
+                p.cita-decorada__texto <B>Ejemplo empresarial:</B> <em>Netflix</em> adapta sus campañas promocionales según el canal: en redes sociales utiliza videos cortos, en blogs desarrolla análisis de tendencias y en plataformas de <em>streaming</em> lanza trailers completos para captar la audiencia de manera más efectiva.
               .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                 img(src="@/assets/curso/temas/tema_4/img_11.png",  class="img-fluid cita-decorada__imagen-flotante-8")
     
@@ -210,14 +210,14 @@
                   img(src='@/assets/curso/temas/tema_4/img_14.png')
             .row.justify-content-center.align-items-center
               .col-12.col-lg-7.order-2.order-lg-1.mb-0
-                h5 Email marketing
+                h5 <em>Email marketing</em>
                 p.mb-0 Personalización de mensajes según segmentación de usuarios.
               .col-12.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_4/img_15.png')
             .row.justify-content-center.align-items-center
               .col-12.col-lg-7.order-2.order-lg-1.mb-0
-                h5 Podcast y video
+                h5 <em>Podcast</em> y video
                 p.mb-0 Uso de audio y visuales para potenciar la conexión emocional.
               .col-12.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
                 figure

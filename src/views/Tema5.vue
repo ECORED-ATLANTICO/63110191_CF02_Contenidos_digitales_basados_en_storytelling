@@ -59,7 +59,7 @@
                 td  CapCut
               tr
                 td  Clipchamp
-                td  Herramienta de Microsoft, destaca por sus plantillas orientadas a Storytelling visual.
+                td  Herramienta de Microsoft, destaca por sus plantillas orientadas a <em>Storytelling</em> visual.
                 td  Clipchamp
               tr
                 td  Audacity
