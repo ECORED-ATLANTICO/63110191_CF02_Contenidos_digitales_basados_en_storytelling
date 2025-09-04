@@ -27,7 +27,8 @@
       #t_3_1.titulo-segundo.color-acento-contenido
         .h2(data-aos="fade-right") 3.1 Objetivos 
       .mb-3
-          
+      p.mb-3 Cada estrategia de contenido debe estar alineada con objetivos claros que guíen su implementación; algunos de los más comunes incluyen:
+
     .bg_img_5.mb-3
       .row.justify-content-center.align-items-center.mb-5
         .col-10.col-lg-4.mb-lg-0.mb-3(data-aos="fade-left")
@@ -66,7 +67,7 @@
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-5
               .row.justify-content-center.align-items-center
                 .col-12.col-lg-8.p-4.order-2.order-lg-1
-                  p.cita-decorada__texto  <B>Ejemplo empresarial:</B> HubSpot estructura sus estrategias de contenido con el objetivo de educar a su audiencia, publicando blogs, tutoriales y cursos gratuitos sobre <em>marketing</em> digital.
+                  p.cita-decorada__texto  <B>Ejemplo empresarial.</B> HubSpot estructura sus estrategias de contenido con el objetivo de educar a su audiencia, publicando blogs, tutoriales y cursos gratuitos sobre <em>marketing</em> digital.
                 .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema_3/img_5.png',  class="img-fluid cita-decorada__imagen-flotante-6")
 
@@ -141,8 +142,8 @@
             h5 Figura 3.
             |    Elementos de un mapa de contenido
           figure
-            img(src="@/assets/curso/temas/tema_3/img_14.svg", class="img-fluid d-none d-lg-block img100")
-            img(src="@/assets/curso/temas/tema_3/img_15.svg", class="img-fluid d-block d-lg-none img100")
+            img(src="@/assets/curso/temas/tema_3/img_14.svg", class="img-fluid d-none d-lg-block img100" alt="La ilustración contiene los elementos de un mapa de contenidos, de acuerdo a Pulizzi(2018): • Temática principal: define el eje central de la estrategia de contenido. • Subtemas: detalla áreas complementarias dentro de la narrativa. • Formatos: especifica si se usará video, blog, redes sociales, etc. • Canales de distribución: determina dónde se publicará cada tipo de contenido.")
+            img(src="@/assets/curso/temas/tema_3/img_15.svg", class="img-fluid d-block d-lg-none img100" alt="La ilustración contiene los elementos de un mapa de contenidos, de acuerdo a Pulizzi(2018): • Temática principal: define el eje central de la estrategia de contenido. • Subtemas: detalla áreas complementarias dentro de la narrativa. • Formatos: especifica si se usará video, blog, redes sociales, etc. • Canales de distribución: determina dónde se publicará cada tipo de contenido.")
           figcaption  
             p <b>Fuente:</b> Adaptado Pulizzi, (2018).
 

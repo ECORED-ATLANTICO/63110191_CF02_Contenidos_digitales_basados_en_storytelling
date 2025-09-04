@@ -60,7 +60,7 @@
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-3.p-3
               .row.justify-content-center.align-items-center
                 .col-12.col-lg-9.order-2.order-lg-1
-                  p.cita-decorada__texto <B>Ejemplo empresarial:</B> la campaña <em>“Just Do It”</em> de Nike utiliza una narrativa heroica, mostrando historias de atletas que superaron grandes retos, reforzando el mensaje de determinación y esfuerzo.
+                  p.cita-decorada__texto <B>Ejemplo empresarial.</B> La campaña <em>“Just Do It”</em> de Nike utiliza una narrativa heroica, mostrando historias de atletas que superaron grandes retos, reforzando el mensaje de determinación y esfuerzo.
                 .col-12.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3.d-none.d-lg-block.p-0
                   img(src="@/assets/curso/temas/tema_2/img_8.png", class="img-fluid cita-decorada__imagen-flotante-4")
 
@@ -105,7 +105,7 @@
                 .col-12.col-lg-3.mb-lg-0.mb-0.d-none.d-lg-block.p-0
                   img(src="@/assets/curso/temas/tema_2/img_10.png", class="img-fluid cita-decorada__imagen-flotante-5")
                 .col-12.col-lg-9.cita-decorada__texto
-                  p.mb-0 <B>Ejemplo empresarial:</B> Airbnb adapta sus historias según el formato; en su blog publica relatos de viajeros, en redes sociales comparte imágenes inspiradoras, y en video presenta testimonios de huéspedes.
+                  p.mb-0 <B>Ejemplo empresarial.</B> Airbnb adapta sus historias según el formato; en su blog publica relatos de viajeros, en redes sociales comparte imágenes inspiradoras, y en video presenta testimonios de huéspedes.
               
       .col-12.col-lg-10.mb-3
 
@@ -176,8 +176,8 @@
             h5 Figura 2.
             |    Estrategias para mejorar el <em>engagement</em> con <em>Storytelling</em> 
           figure
-            img(src="@/assets/curso/temas/tema_2/img_16.svg", class="img-fluid d-none d-lg-block img100")
-            img(src="@/assets/curso/temas/tema_2/img_17.svg", class="img-fluid d-block d-lg-none img100")
+            img(src="@/assets/curso/temas/tema_2/img_16.svg", class="img-fluid d-none d-lg-block img100" alt="En la Ilustración se muestran las Estrategias para Mejorar el Engagement con Storytelling • Interactividad: permitir que los usuarios participen en la historia. • Uso de emociones: apelar a sentimientos profundos para generar conexión.  • Narrativa personalizada: adaptar el contenido según los intereses del público. • Multiformato: presentar la historia en diversos medios (video, blog, redes sociales). • Consistencia de mensaje: mantener coherencia en la historia a lo largo de los canales digitales.")
+            img(src="@/assets/curso/temas/tema_2/img_17.svg", class="img-fluid d-block d-lg-none img100" alt="En la Ilustración se muestran las Estrategias para Mejorar el Engagement con Storytelling • Interactividad: permitir que los usuarios participen en la historia. • Uso de emociones: apelar a sentimientos profundos para generar conexión.  • Narrativa personalizada: adaptar el contenido según los intereses del público. • Multiformato: presentar la historia en diversos medios (video, blog, redes sociales). • Consistencia de mensaje: mantener coherencia en la historia a lo largo de los canales digitales.")
           figcaption 
             p <b> Fuente:</b> SENA 2024.
 </template>

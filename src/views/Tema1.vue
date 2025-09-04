@@ -65,7 +65,7 @@
               blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1
                 .row.justify-content-center.align-items-center
                   .col-12.col-lg-8.p-4.order-2.order-lg-1
-                    p.cita-decorada__texto  <B>Ejemplo empresarial:</B> Coca-Cola emplea el <em>Storytelling</em> emocional, construyendo historias sobre felicidad, unión y momentos especiales, lo que fortalece la conexión de la marca con sus consumidores.
+                    p.cita-decorada__texto  <B>Ejemplo empresarial.</B> Coca-Cola emplea el <em>Storytelling</em> emocional, construyendo historias sobre felicidad, unión y momentos especiales, lo que fortalece la conexión de la marca con sus consumidores.
                   .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                     img(src='@/assets/curso/temas/tema_1/img_7.png',  class="img-fluid cita-decorada__imagen-flotante-1")
 
@@ -145,10 +145,10 @@
             h5 Figura 1.
             |    Factores claves para una conexión emocional exitosa
           figure
-            img(src="@/assets/curso/temas/tema_1/img_11.png", class="img-fluid d-none d-lg-block img100")
-            img(src="@/assets/curso/temas/tema_1/img_12.png", class="img-fluid d-block d-lg-none img100")
+            img(src="@/assets/curso/temas/tema_1/img_11.png", class="img-fluid d-none d-lg-block img100" alt="En la Ilustración se muestra los factores clave para una conexión emocional: • Autenticidad: las historias deben ser genuinas y reflejar valores reales de la marca. • Identificación con el público: los relatos deben tocar preocupaciones y deseos del consumidor. • Uso de emociones universales: elementos como la felicidad, nostalgia o inspiración fortalecen la conexión. • Construcción de experiencias: más allá de vender, se trata de transmitir experiencias significativas.")
+            img(src="@/assets/curso/temas/tema_1/img_12.png", class="img-fluid d-block d-lg-none img100" alt="En la Ilustración se muestra los factores clave para una conexión emocional: • Autenticidad: las historias deben ser genuinas y reflejar valores reales de la marca. • Identificación con el público: los relatos deben tocar preocupaciones y deseos del consumidor. • Uso de emociones universales: elementos como la felicidad, nostalgia o inspiración fortalecen la conexión. • Construcción de experiencias: más allá de vender, se trata de transmitir experiencias significativas.")
           figcaption 
-            p <b>Fuente:</b> SENA (2024).
+            p <b>Fuente:</b> SENA 2025.
 </template>
 
 <script>

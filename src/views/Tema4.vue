@@ -97,7 +97,7 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-7
             .row.justify-content-center.align-items-center
               .col-12.col-lg-8.p-4.order-2.order-lg-1
-                p.cita-decorada__texto  <B>Ejemplo empresarial:</B> Dove, en su campaña <em>Real Beauty</em>, muestran cómo la redacción persuasiva puede empoderar. Los testimonios reales, acompañados de frases como “la belleza está en lo auténtico”, generaron identificación masiva, reforzando valores sociales. En contraste, Nike utiliza estructuras breves como <em>“You don’t win silver, you lose gold”</em>, que   evocan competitividad, ambición y determinación, apelando al deseo de superación del lector.
+                p.cita-decorada__texto  <B>Ejemplo empresarial.</B> Dove, en su campaña <em>Real Beauty</em>, muestran cómo la redacción persuasiva puede empoderar. Los testimonios reales, acompañados de frases como “la belleza está en lo auténtico”, generaron identificación masiva, reforzando valores sociales. En contraste, Nike utiliza estructuras breves como <em>“You don’t win silver, you lose gold”</em>, que   evocan competitividad, ambición y determinación, apelando al deseo de superación del lector.
               .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                 img(src='@/assets/curso/temas/tema_4/img_7.png',  class="img-fluid cita-decorada__imagen-flotante-7")
 
@@ -134,13 +134,9 @@
                 td  Involucrar al lector
                 td  “¿Estás listo para el cambio?” - IBM
               tr
-                td  Notion
-                td  Permite organizar mapas de contenido y estructurar información para equipos.
-                td  Notion
-              tr
                 td  Problema - solución
                 td  Estructura convincente
-                td  “Demasiado tráfico. Descárgalo en segundos.” - Waze
+                td  “Demasiado tráfico. Descárgalo en segundos.” - <em>Waze</em>
               tr
                 td Frase corta con acción
                 td Estimula decisión inmediata
@@ -183,17 +179,22 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-7
             .row.justify-content-center.align-items-center
               .col-12.col-lg-8.p-4.order-2.order-lg-1
-                p.cita-decorada__texto <B>Ejemplo empresarial:</B> <em>Netflix</em> adapta sus campañas promocionales según el canal: en redes sociales utiliza videos cortos, en blogs desarrolla análisis de tendencias y en plataformas de <em>streaming</em> lanza trailers completos para captar la audiencia de manera más efectiva.
+                p.cita-decorada__texto <B>Ejemplo empresarial</B> Netflix adapta sus campañas promocionales según el canal: en redes sociales utiliza videos cortos, en blogs desarrolla análisis de tendencias y en plataformas de <em>streaming</em> lanza <em>trailers</em> completos para captar la audiencia de manera más efectiva.
               .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                 img(src="@/assets/curso/temas/tema_4/img_11.png",  class="img-fluid cita-decorada__imagen-flotante-8")
     
+    
     .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-lg-10
+        p.mb-0 Algunas estrategias para adaptar contenidos a diversas plataformas son:
+    
+    .row.justify-content-center.align-items-stard.mb-5
       .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/tema_4/img_12.png", class="img-flud")
       .col-12.col-lg-7.mb-5
         .tarjeta.tarjeta--fondo__slider.p-4.mb-0
-          SlyderA(tipo="a").tarjeta.tarjeta--blanca.p-5
+          SlyderA(tipo="a").tarjeta.tarjeta--blanca.p-3
             .row.justify-content-center.align-items-center
               .col-12.col-lg-7.order-2.order-lg-1.mb-0
                 h5 Redes sociales
