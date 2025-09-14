@@ -36,21 +36,21 @@
         p.mb-0 La escritura persuasiva busca provocar una respuesta emocional o acción. Según Perloff (2020), se apoya en tres elementos:
     
     .row.justify-content-center.align-items-stretch.mb-5
-      .col-12.col-lg-3.mb-3(data-aos="fade-left")
+      .col-12.col-md-6.col-lg-3.mb-3(data-aos="fade-left")
         .tarjeta-numerada.color-secundario.p-5.pb-3.pt-3.h-100.d-flex.flex-column
           .tarjeta-numerada__numero
             figure
               img(src="@/assets/curso/temas/tema_6/img_4.png", class="img-fluid")
           h6.mb-1 Emoción
           p.mb-0 Genera conexión afectiva inmediata.
-      .col-12.col-lg-3.mb-3(data-aos="fade-left")
+      .col-12.col-md-6.col-lg-3.mb-3(data-aos="fade-left")
         .tarjeta-numerada.color-secundario.p-5.pb-3.pt-3.h-100.d-flex.flex-column
           .tarjeta-numerada__numero
             figure
               img(src="@/assets/curso/temas/tema_6/img_4.png", class="img-fluid")
           h6.mb-1 Razonamiento 
           p.mb-0 Argumentos o datos que sustentan la idea.
-      .col-12.col-lg-3.mb-3(data-aos="fade-left")
+      .col-12.col-md-6.col-lg-3.mb-3(data-aos="fade-left")
         .tarjeta-numerada.color-secundario.p-5.pb-3.pt-3.h-100.d-flex.flex-column
           .tarjeta-numerada__numero
             figure
@@ -65,7 +65,7 @@
     .mb-3
 
     .row.justify-content-center.align-items-center.mb-3
-      .col-12.col-lg-2.mb-3.mb-lg-0(data-aos="fade-left")
+      .col-8.col-lg-2.mb-3.mb-lg-0(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/tema_6/img_5.png", data-aos="zoom-in")
       .col-12.col-lg-10(data-aos="fade-left")
@@ -75,18 +75,18 @@
             .cajon.color-terciario-5.p-4.mb-3
               p.mb-0 Por otro lado, el anclaje emocional conecta la narrativa con las vivencias, sueños o temores del lector, haciéndola relevante desde el primer segundo (Heath & Heath, 2007). Estos recursos son esenciales en formatos como <em>Reels</em>, <em>Shorts</em> o <em>Ads</em> que demandan impacto inmediato.
             p.mb-0 Para captar atención en entornos digitales, se aplican técnicas como:
-          .col-12.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0
+          .col-8.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/temas/tema_6/img_6.png", data-aos="zoom-in")
     
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10.mb-3(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido
           h5 Figura 7.
           |    Técnicas para captar la atención
         figure
-          img(src="@/assets/curso/temas/tema_6/img_7.svg", class="img-fluid d-none d-lg-block img100" alt="En la Ilustración se muestran tres técnicas para captar la atención: Titulares con intriga: ¿Qué pasaría si tu historia empezara con una pregunta? Giros narrativos: rompimiento de expectativas en pocos segundos. Anclaje emocional: conexión desde el primer mensaje con valores o experiencias personales (Heath & Heath, 2007).")
-          img(src="@/assets/curso/temas/tema_6/img_8.svg", class="img-fluid d-block d-lg-none img100" alt="En la Ilustración se muestran tres técnicas para captar la atención: Titulares con intriga: ¿Qué pasaría si tu historia empezara con una pregunta? Giros narrativos: rompimiento de expectativas en pocos segundos. Anclaje emocional: conexión desde el primer mensaje con valores o experiencias personales (Heath & Heath, 2007).")
+          img(src="@/assets/curso/temas/tema_6/img_7.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="En la Ilustración se muestran tres técnicas para captar la atención: Titulares con intriga: ¿Qué pasaría si tu historia empezara con una pregunta? Giros narrativos: rompimiento de expectativas en pocos segundos. Anclaje emocional: conexión desde el primer mensaje con valores o experiencias personales (Heath & Heath, 2007).")
+          img(src="@/assets/curso/temas/tema_6/img_8.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="En la Ilustración se muestran tres técnicas para captar la atención: Titulares con intriga: ¿Qué pasaría si tu historia empezara con una pregunta? Giros narrativos: rompimiento de expectativas en pocos segundos. Anclaje emocional: conexión desde el primer mensaje con valores o experiencias personales (Heath & Heath, 2007).")
         figcaption 
           p <b>Fuente:</b> SENA, 2025.
 
@@ -96,7 +96,7 @@
       .h2(data-aos="fade-right") 6.3 Mensajes breves
     .mb-3
     
-    .tarjeta.color-terciario-5.rounded-0.p-0.mb-5(data-aos="fade-left")
+    .tarjeta.color-terciario-5.rounded-0.p-3.p-lg-0.mb-5(data-aos="fade-left")
       .row.justify-content-center.align-items-center.mb-0
         .col-12.col-lg-7.p-4.ps-5
           p.mb-3 Contar historias en formatos comprimidos es una habilidad cada vez más valiosa en el ecosistema digital. El <em>microstorytelling</em> consiste en estructurar una narrativa completa en pocos segundos o líneas, usando recursos como personajes simbólicos, conflictos resumidos y finales contundentes. El <em>microstorytelling</em> adapta estructuras clásicas (inicio-desarrollo-cierre) a:
@@ -126,16 +126,16 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10(data-aos="fade-left")
         .cita-decorada
-          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-12
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-12.p-5
             .row.justify-content-center.align-items-center
-              .col-12.col-lg-8.p-4.order-2.order-lg-1
+              .col-12.col-lg-8.order-2.order-lg-1
                 p.cita-decorada__texto <B>Ejemplo empresarial.</B> un ejemplo emblemático es la campaña de Coca-Cola “Comparte una Coca-Cola”, que convirtió un producto cotidiano en una historia personal al incluir nombres propios en las botellas. Esta iniciativa apeló a la identificación del consumidor y generó millones de interacciones espontáneas (Heath & Heath, 2007).
               .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                 img(src="@/assets/curso/temas/tema_6/img_12.png",  class="img-fluid cita-decorada__imagen-flotante-10")
     
     
     .row.justify-content-center.align-items-center.mb-3
-      .col-12.col-lg-3.mb-lg-0.mb-3(data-aos="fade-left")
+      .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/tema_6/img_13.png", class="img-fluid")
       .col-12.col-lg-7(data-aos="fade-left")

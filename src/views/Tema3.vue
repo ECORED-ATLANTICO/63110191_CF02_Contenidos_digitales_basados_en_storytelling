@@ -64,9 +64,9 @@
       .row.justify-content-center.align-items-center.mb-0
         .col-12.col-lg-10
           .cita-decorada
-            blockquote.cita-decorada__caja.cita-decorada__caja--fondo-5
+            blockquote.cita-decorada__caja.cita-decorada__caja--fondo-5.p-5
               .row.justify-content-center.align-items-center
-                .col-12.col-lg-8.p-4.order-2.order-lg-1
+                .col-12.col-lg-8.order-2.order-lg-1
                   p.cita-decorada__texto  <B>Ejemplo empresarial.</B> HubSpot estructura sus estrategias de contenido con el objetivo de educar a su audiencia, publicando blogs, tutoriales y cursos gratuitos sobre <em>marketing</em> digital.
                 .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema_3/img_5.png',  class="img-fluid cita-decorada__imagen-flotante-6")
@@ -81,7 +81,7 @@
       .h2(data-aos="fade-right") 3.2 Calendarios 
     .mb-3
     
-    .tarjeta.color-primario-5.rounded-0.p-0.mb-5
+    .tarjeta.color-primario-5.rounded-0.p-3.p-lg-0.mb-5
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-5.mb-lg-0.mb-3.p-0
           figure.p-0
@@ -91,28 +91,28 @@
           h5.bg-color-primario.mb-0 De acuerdo con HubSpot (2022), los elementos clave de un calendario de publicación son:
     
     .row.justify-content-center.align-items-center.mb-0.mt-5
-      .col-10.col-lg-2.mb-lg-0.mb-3
+      .col-10.col-lg-2.mb-lg-0.mb-5
         .tarjeta--color-fondo-1.h-100
           .row.justify-content-center.align-items-center.mb-0
             .col-12.mb-0.d-flex
               .tarjeta--5
             .tarjeta--slider__title.mb-3.text-center.fw-bold.pt-0.pb-0.p-1 Tipo de contenido 
             .tarjeta--slider__content.text-center.pt-0.pb-5.p-3 Definir si es video, blog, post en redes, etc.
-      .col-10.col-lg-2.mb-lg-0.mb-3
+      .col-10.col-lg-2.mb-lg-0.mb-5
         .tarjeta--color-fondo-1.h-100
           .row.justify-content-center.align-items-center.mb-0
             .col-12.mb-0.d-flex
               .tarjeta--6
             .tarjeta--slider__title.mb-3.text-center.fw-bold.pt-0.pb-0.p-1 Frecuencia
             .tarjeta--slider__content.text-center.pt-0.pb-5.p-3 Establecer periodicidad de publicación.
-      .col-10.col-lg-2.mb-lg-0.mb-3
+      .col-10.col-lg-2.mb-lg-0.mb-5
         .tarjeta--color-fondo-1.h-100
           .row.justify-content-center.align-items-center.mb-0
             .col-12.mb-0.d-flex
               .tarjeta--7
             .tarjeta--slider__title.mb-3.text-center.fw-bold.pt-0.pb-0.p-1 Plataforma
             .tarjeta--slider__content.text-center.pt-0.pb-5.p-3 Determinar el canal de distribución.
-      .col-10.col-lg-2.mb-lg-0.mb-3
+      .col-10.col-lg-2.mb-lg-0.mb-5
         .tarjeta--color-fondo-1.h-100
           .row.justify-content-center.align-items-center.mb-0
             .col-12.mb-0.d-flex
@@ -170,9 +170,9 @@
               p <b>Fuente:</b> SENA, 2025.
             thead
               tr
-                th Herramienta
+                th.col-2 Herramienta
                 th Utilidad
-                th Sitio de la herramienta
+                th.col-2 Sitio de la herramienta
             tbody
               tr
                 td  Trello

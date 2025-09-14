@@ -47,7 +47,7 @@
       .h2(data-aos="fade-right") 4.2	Proceso 
     .mb-3
 
-    .tarjeta.color-primario-5.rounded-0.p-0.mb-5
+    .tarjeta.color-primario-5.rounded-0.p-0.mb-5.p-3.p-lg-0
       .row.justify-content-center.align-items-center.mb-0
         .col-12.col-lg-5.mb-lg-0.mb-3.p-0
           figure.p-0
@@ -104,9 +104,9 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10
         .cita-decorada
-          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-7
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-7.p-5
             .row.justify-content-center.align-items-center
-              .col-12.col-lg-8.p-4.order-2.order-lg-1
+              .col-12.col-lg-8.order-2.order-lg-1
                 p.cita-decorada__texto  <B>Ejemplo empresarial.</B> Dove, en su campaña <em>Real Beauty</em>, muestran cómo la redacción persuasiva puede empoderar. Los testimonios reales, acompañados de frases como “la belleza está en lo auténtico”, generaron identificación masiva, reforzando valores sociales. En contraste, Nike utiliza estructuras breves como <em>“You don’t win silver, you lose gold”</em>, que   evocan competitividad, ambición y determinación, apelando al deseo de superación del lector.
               .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                 img(src='@/assets/curso/temas/tema_4/img_7.png',  class="img-fluid cita-decorada__imagen-flotante-7")
@@ -131,9 +131,9 @@
               p <b>Fuente:</b> Adaptado por SENA (2025) con base en Perloff (2020) y Heath y Heath (2007).
             thead
               tr
-                th Técnica
+                th.col-3 Técnica
                 th Propósito
-                th Ejemplo empresarial
+                th.col-5 Ejemplo empresarial
             tbody
               tr
                 td  Metáfora emocional
@@ -186,13 +186,12 @@
             p.linea-solida.mb-0  <B>Refuerza la identidad de marca:</B> mantiene coherencia entre todos los puntos de contacto digitales.
       .col-12.col-lg-10.mb-0
         .cita-decorada
-          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-7
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-7.p-5
             .row.justify-content-center.align-items-center
-              .col-12.col-lg-8.p-4.order-2.order-lg-1
+              .col-12.col-lg-8.order-2.order-lg-1
                 p.cita-decorada__texto <B>Ejemplo empresarial</B> Netflix adapta sus campañas promocionales según el canal: en redes sociales utiliza videos cortos, en blogs desarrolla análisis de tendencias y en plataformas de <em>streaming</em> lanza <em>trailers</em> completos para captar la audiencia de manera más efectiva.
               .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                 img(src="@/assets/curso/temas/tema_4/img_11.png",  class="img-fluid cita-decorada__imagen-flotante-8")
-    
     
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10
@@ -206,31 +205,31 @@
         .tarjeta.tarjeta--fondo__slider.p-4.mb-0
           SlyderA(tipo="a").tarjeta.tarjeta--blanca.p-3
             .row.justify-content-center.align-items-center
-              .col-12.col-lg-7.order-2.order-lg-1.mb-0
+              .col-10.col-lg-6.order-2.order-lg-1.mb-0
                 h5 Redes sociales
                 p.mb-0 Contenidos breves, visuales y dinámicos para facilitar la interacción.
-              .col-12.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-6.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_4/img_13.png')
             .row.justify-content-center.align-items-center
-              .col-12.col-lg-7.order-2.order-lg-1.mb-0
+              .col-10.col-lg-6.order-2.order-lg-1.mb-0
                 h5 Blogs y artículos
                 p.mb-0 Narrativas extensas y bien estructuradas para informar con profundidad.
-              .col-12.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-6.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_4/img_14.png')
             .row.justify-content-center.align-items-center
-              .col-12.col-lg-7.order-2.order-lg-1.mb-0
+              .col-10.col-lg-6.order-2.order-lg-1.mb-0
                 h5 <em>Email marketing</em>
                 p.mb-0 Personalización de mensajes según segmentación de usuarios.
-              .col-12.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-6.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_4/img_15.png')
             .row.justify-content-center.align-items-center
-              .col-12.col-lg-7.order-2.order-lg-1.mb-0
+              .col-10.col-lg-6.order-2.order-lg-1.mb-0
                 h5 <em>Podcast</em> y video
                 p.mb-0 Uso de audio y visuales para potenciar la conexión emocional.
-              .col-12.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
+              .col-6.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
                 figure
                   img(src='@/assets/curso/temas/tema_4/img_16.png')
 </template>

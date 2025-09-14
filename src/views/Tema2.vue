@@ -22,7 +22,7 @@
     p.mb-5 Existen diversos enfoques narrativos dentro del <em>Storytelling</em>, cada uno con estructuras y objetivos distintos; los más utilizados en el <em>marketing</em> y la comunicación digital incluyen:
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-4.mb-lg-0.mb-3(data-aos="zoom-in-right")
+      .col-8.col-lg-4.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure(data-aos="zoom-out-up")
           img(src='@/assets/curso/temas/tema_2/img_2.png', class="img-fluid")
       .col-12.col-lg-8
@@ -59,9 +59,9 @@
           .cita-decorada
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-3.p-3
               .row.justify-content-center.align-items-center
-                .col-12.col-lg-9.order-2.order-lg-1
-                  p.cita-decorada__texto <B>Ejemplo empresarial.</B> La campaña <em>“Just Do It”</em> de Nike utiliza una narrativa heroica, mostrando historias de atletas que superaron grandes retos, reforzando el mensaje de determinación y esfuerzo.
-                .col-12.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3.d-none.d-lg-block.p-0
+                .col-12.col-lg-8.order-2.order-lg-1
+                  p.p-lg-3.p-0.cita-decorada__texto <B>Ejemplo empresarial.</B> La campaña <em>“Just Do It”</em> de Nike utiliza una narrativa heroica, mostrando historias de atletas que superaron grandes retos, reforzando el mensaje de determinación y esfuerzo.
+                .col-12.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3.d-none.d-lg-block
                   img(src="@/assets/curso/temas/tema_2/img_8.png", class="img-fluid cita-decorada__imagen-flotante-4")
 
       separador
@@ -83,7 +83,7 @@
               p <b>Fuente:</b> Adaptado de HubSpot, 2022.
             thead
               tr.bg-table-01
-                th Formato Digital
+                th.col-3 Formato Digital
                 th Aplicación en <em>Storytelling</em>
             tbody
               tr
@@ -99,13 +99,13 @@
                 td  Interactivo
                 td  Narrativas personalizadas con participación del usuario.
       .col-12.col-lg-10.mb-0
-          .cita-decorada
-            blockquote.cita-decorada__caja.cita-decorada__caja--fondo-4.p-0
-              .row.justify-content-center.align-items-center
-                .col-12.col-lg-3.mb-lg-0.mb-0.d-none.d-lg-block.p-0
-                  img(src="@/assets/curso/temas/tema_2/img_10.png", class="img-fluid cita-decorada__imagen-flotante-5")
-                .col-12.col-lg-9.cita-decorada__texto
-                  p.mb-0 <B>Ejemplo empresarial.</B> Airbnb adapta sus historias según el formato; en su blog publica relatos de viajeros, en redes sociales comparte imágenes inspiradoras, y en video presenta testimonios de huéspedes.
+        .cita-decorada
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-4.p-3
+            .row.justify-content-center.align-items-center
+              .col-12.col-lg-3.d-none.d-lg-block
+                img(src="@/assets/curso/temas/tema_2/img_10.png", class="img-fluid cita-decorada__imagen-flotante-5")
+              .col-12.col-lg-9.cita-decorada__texto
+                p.mb-0 <B>Ejemplo empresarial.</B> Airbnb adapta sus historias según el formato; en su blog publica relatos de viajeros, en redes sociales comparte imágenes inspiradoras, y en video presenta testimonios de huéspedes.
               
       .col-12.col-lg-10.mb-3
 
@@ -116,7 +116,7 @@
         .mb-3
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-2.mb-3
+      .col-10.col-lg-2.mb-3
         img(src="@/assets/curso/temas/tema_2/img_11.png", class="img-fluid")
       .col-12.col-lg-8.mb-3
         p.mb-0 El <em>Storytelling</em> ha sido utilizado por grandes empresas para mejorar la conexión con su audiencia, diferenciarse en el mercado y fortalecer sus estrategias de <em>marketing</em> digital; a continuación, se presentan casos reales donde el <em>Storytelling</em> ha sido clave en la estrategia de comunicación.
@@ -152,15 +152,12 @@
           .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_2/img_14.png', class="img-fluid")
-    
-    .row.justify-content-center.align-items-center.mb-3
-      .col-12.col-lg-10.mb-4
 
-        separador
-          
-        #t_2_4.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 2.4 <em>Engagement</em> 
-        .mb-3
+    separador
+      
+    #t_2_4.titulo-segundo.color-acento-contenido
+      .h2(data-aos="fade-right") 2.4 <em>Engagement</em> 
+    .mb-3
     
     .bg_img_5.mb-3
       .bloque-texto-g.bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mb-5

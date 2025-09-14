@@ -8,11 +8,11 @@
       h1 Herramientas de producción
 
     .row.justify-content-center.align-items-stard.mb-5
-      .col-8.col-lg-4.mb-0.mb-lg-0(data-aos="fade-left")
+      .col-8.col-lg-4.mb-3.mb-lg-0(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/tema_5/img_1.png", data-aos="zoom-in")
       .col-12.col-lg-8(data-aos="fade-left")
-        p.mb-2(data-aos="fade-left") La producción de contenidos narrativos no se limita a la creatividad: demanda la correcta utilización de herramientas digitales que permitan integrar imagen, sonido y texto de forma coherente y emocionalmente significativa.
+        p.mb-4.mb-lg-3(data-aos="fade-left") La producción de contenidos narrativos no se limita a la creatividad: demanda la correcta utilización de herramientas digitales que permitan integrar imagen, sonido y texto de forma coherente y emocionalmente significativa.
         .cita-decorada.mb-3(data-aos="fade-left")
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-9
             p.cita-decorada__texto.p-4 En entornos digitales saturados de estímulos, hay que destacar que se requiere no solo de ideas potentes, sino también de una ejecución técnica que respalde el mensaje, por eso, es importante el manejo de recursos de producción que, más allá de facilitar el proceso, elevan la calidad narrativa.
@@ -29,8 +29,8 @@
           h5 Figura 5.
           |    Tipos de contenido visual y auditivo
         figure
-          img(src="@/assets/curso/temas/tema_5/img_4.svg", class="img-fluid d-none d-lg-block img100" Alt="La ilustración muestra los tipos de contenido visual y auditivo: Imagen fija: transmite emociones visuales inmediatas; requiere buena composición, color y nitidez. Video: permite continuidad narrativa; combina imagen, sonido y texto; ideal para storytelling emocional. Audio: refuerza la identidad sonora; útil en podcasts, audios motivacionales y narración de marca. Texto: cimiento estructural de toda narrativa; debe adaptarse al formato y audiencia.")
-          img(src="@/assets/curso/temas/tema_5/img_5.svg", class="img-fluid d-block d-lg-none img100" Alt="La ilustración muestra los tipos de contenido visual y auditivo: Imagen fija: transmite emociones visuales inmediatas; requiere buena composición, color y nitidez. Video: permite continuidad narrativa; combina imagen, sonido y texto; ideal para storytelling emocional. Audio: refuerza la identidad sonora; útil en podcasts, audios motivacionales y narración de marca. Texto: cimiento estructural de toda narrativa; debe adaptarse al formato y audiencia.")
+          img(src="@/assets/curso/temas/tema_5/img_4.svg", class="img-fluid d-none d-lg-block img100 mb-3" Alt="La ilustración muestra los tipos de contenido visual y auditivo: Imagen fija: transmite emociones visuales inmediatas; requiere buena composición, color y nitidez. Video: permite continuidad narrativa; combina imagen, sonido y texto; ideal para storytelling emocional. Audio: refuerza la identidad sonora; útil en podcasts, audios motivacionales y narración de marca. Texto: cimiento estructural de toda narrativa; debe adaptarse al formato y audiencia.")
+          img(src="@/assets/curso/temas/tema_5/img_5.svg", class="img-fluid d-block d-lg-none img100 mb-3" Alt="La ilustración muestra los tipos de contenido visual y auditivo: Imagen fija: transmite emociones visuales inmediatas; requiere buena composición, color y nitidez. Video: permite continuidad narrativa; combina imagen, sonido y texto; ideal para storytelling emocional. Audio: refuerza la identidad sonora; útil en podcasts, audios motivacionales y narración de marca. Texto: cimiento estructural de toda narrativa; debe adaptarse al formato y audiencia.")
         figcaption 
           p <b>Fuente:</b> SENA, 2025.
     
@@ -45,9 +45,9 @@
               p <b>Fuente:</b> SENA, 2025.
             thead
               tr.bg-table-01
-                th Herramienta
+                th.col-2 Herramienta
                 th Utilidad
-                th Sitio de la herramienta
+                th.col-3 Sitio de la herramienta
             tbody
               tr
                 td  Canva
@@ -76,7 +76,7 @@
         .mb-3
 
     .row.justify-content-center.align-items-center.mb-3
-      .col-12.col-lg-3.mb-3.mb-lg-0(data-aos="fade-left")
+      .col-8.col-lg-3.mb-3.mb-lg-0(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/tema_5/img_6.png", data-aos="zoom-in")
       .col-12.col-lg-7(data-aos="fade-left")
@@ -86,16 +86,16 @@
         .row.justify-content-center.align-items-center.mb-5
           .col-12.col-lg-9.order-2.order-lg-1
             p.mb-0 Según Salas (2022), esta integración debe ser planificada desde el <em>brief</em> creativo, considerando los objetivos comunicacionales y el perfil de la audiencia. Al lograr esta cohesión, las piezas narrativas se convierten en experiencias memorables que conectan, convencen y permanecen.
-          .col-12.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0
+          .col-8.col-lg-3.order-1.order-lg-2.mb-3.mb-lg-0
             figure
               img(src="@/assets/curso/temas/tema_5/img_7.png", data-aos="zoom-in")
     
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10.mb-0
         .cita-decorada
-          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-10
+          blockquote.cita-decorada__caja.cita-decorada__caja--fondo-10.p-5
             .row.justify-content-center.align-items-center
-              .col-12.col-lg-8.p-4.order-2.order-lg-1
+              .col-12.col-lg-8.order-2.order-lg-1
                 p.cita-decorada__texto <B>Ejemplo empresarial.</b> Un ejemplo claro lo ofrece Apple en sus lanzamientos de producto, donde la narrativa visual, las frases clave como <em>“Think different”</em> y la música de fondo se alinean para generar un ecosistema emocional y aspiracional. 
               .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                 img(src="@/assets/curso/temas/tema_5/img_9.png",  class="img-fluid cita-decorada__imagen-flotante-9")
@@ -121,8 +121,8 @@
           h5 Figura 6.
           |    Criterios de evaluación
         figure
-          img(src="@/assets/curso/temas/tema_5/img_11.svg", class="img-fluid d-none d-lg-block img100" alt="La ilustración muestra tres criterios de evaluación de la calidad de recursos: La estética visual implica coherencia en la composición, armonía cromática, uso adecuado de tipografías y efectos gráficos (Briggs & Burke, 2014).  La coherencia narrativa exige que imagen, texto y sonido se integren en función del mensaje principal, sin distractores innecesarios (Ryan, 2020). El potencial de engagement se mide en función de la capacidad para conectar con la audiencia: mensajes relevantes, empáticos y memorables (Hyland, 2019).")
-          img(src="@/assets/curso/temas/tema_5/img_12.svg", class="img-fluid d-block d-lg-none img100" alt="La ilustración muestra tres criterios de evaluación de la calidad de recursos: La estética visual implica coherencia en la composición, armonía cromática, uso adecuado de tipografías y efectos gráficos (Briggs & Burke, 2014).  La coherencia narrativa exige que imagen, texto y sonido se integren en función del mensaje principal, sin distractores innecesarios (Ryan, 2020). El potencial de engagement se mide en función de la capacidad para conectar con la audiencia: mensajes relevantes, empáticos y memorables (Hyland, 2019).")
+          img(src="@/assets/curso/temas/tema_5/img_11.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="La ilustración muestra tres criterios de evaluación de la calidad de recursos: La estética visual implica coherencia en la composición, armonía cromática, uso adecuado de tipografías y efectos gráficos (Briggs & Burke, 2014).  La coherencia narrativa exige que imagen, texto y sonido se integren en función del mensaje principal, sin distractores innecesarios (Ryan, 2020). El potencial de engagement se mide en función de la capacidad para conectar con la audiencia: mensajes relevantes, empáticos y memorables (Hyland, 2019).")
+          img(src="@/assets/curso/temas/tema_5/img_12.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="La ilustración muestra tres criterios de evaluación de la calidad de recursos: La estética visual implica coherencia en la composición, armonía cromática, uso adecuado de tipografías y efectos gráficos (Briggs & Burke, 2014).  La coherencia narrativa exige que imagen, texto y sonido se integren en función del mensaje principal, sin distractores innecesarios (Ryan, 2020). El potencial de engagement se mide en función de la capacidad para conectar con la audiencia: mensajes relevantes, empáticos y memorables (Hyland, 2019).")
         figcaption 
           p <b>Fuente:</b> SENA, 2025.
 </template>
