@@ -53,23 +53,11 @@
   .banner-principal .tarjeta
     padding-right: 0
     overflow: hidden
-
-  .banner-principal__row 
-  .banner-principal__img
-    width: 400px
-    padding: 0 !important
-    padding-top: 34px !important
     
-@media (min-width: 576px) 
-    .banner-principal__row .banner-principal__img 
-        padding-right: 34px !important
-    
-@media (min-width: 1244px)
-  .banner-principal__row .banner-principal__img
-    width: 534px
-    padding: 0 !important
-    padding-top: 34px !important
-    padding-right: 34px !important
+.banner-principal__row .banner-principal__img
+  width: 500px !important
+  @media screen and (max-width: $bp-max-xl)
+    width: 400px !important
 
 .titulo-principal__numero
   min-width: 45px

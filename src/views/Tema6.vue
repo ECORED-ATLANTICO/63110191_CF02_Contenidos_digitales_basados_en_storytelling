@@ -87,7 +87,6 @@
         figure
           img(src="@/assets/curso/temas/tema_6/img_7.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="En la Ilustración se muestran tres técnicas para captar la atención: Titulares con intriga: ¿Qué pasaría si tu historia empezara con una pregunta? Giros narrativos: rompimiento de expectativas en pocos segundos. Anclaje emocional: conexión desde el primer mensaje con valores o experiencias personales (Heath & Heath, 2007).")
           img(src="@/assets/curso/temas/tema_6/img_8.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="En la Ilustración se muestran tres técnicas para captar la atención: Titulares con intriga: ¿Qué pasaría si tu historia empezara con una pregunta? Giros narrativos: rompimiento de expectativas en pocos segundos. Anclaje emocional: conexión desde el primer mensaje con valores o experiencias personales (Heath & Heath, 2007).")
-        <br>
         figcaption 
           p <b>Fuente:</b> SENA, 2025.
 

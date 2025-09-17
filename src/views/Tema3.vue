@@ -144,7 +144,6 @@
           figure
             img(src="@/assets/curso/temas/tema_3/img_14.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="La ilustración contiene los elementos de un mapa de contenidos, de acuerdo a Pulizzi(2018): • Temática principal: define el eje central de la estrategia de contenido. • Subtemas: detalla áreas complementarias dentro de la narrativa. • Formatos: especifica si se usará video, blog, redes sociales, etc. • Canales de distribución: determina dónde se publicará cada tipo de contenido.")
             img(src="@/assets/curso/temas/tema_3/img_15.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="La ilustración contiene los elementos de un mapa de contenidos, de acuerdo a Pulizzi(2018): • Temática principal: define el eje central de la estrategia de contenido. • Subtemas: detalla áreas complementarias dentro de la narrativa. • Formatos: especifica si se usará video, blog, redes sociales, etc. • Canales de distribución: determina dónde se publicará cada tipo de contenido.")
-          <br>
           figcaption  
             p <b>Fuente:</b> Adaptado Pulizzi, (2018).
 
