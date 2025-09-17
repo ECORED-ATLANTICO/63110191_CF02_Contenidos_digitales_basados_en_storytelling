@@ -31,6 +31,7 @@
         figure
           img(src="@/assets/curso/temas/tema_5/img_4.svg", class="img-fluid d-none d-lg-block img100 mb-3" Alt="La ilustración muestra los tipos de contenido visual y auditivo: Imagen fija: transmite emociones visuales inmediatas; requiere buena composición, color y nitidez. Video: permite continuidad narrativa; combina imagen, sonido y texto; ideal para storytelling emocional. Audio: refuerza la identidad sonora; útil en podcasts, audios motivacionales y narración de marca. Texto: cimiento estructural de toda narrativa; debe adaptarse al formato y audiencia.")
           img(src="@/assets/curso/temas/tema_5/img_5.svg", class="img-fluid d-block d-lg-none img100 mb-3" Alt="La ilustración muestra los tipos de contenido visual y auditivo: Imagen fija: transmite emociones visuales inmediatas; requiere buena composición, color y nitidez. Video: permite continuidad narrativa; combina imagen, sonido y texto; ideal para storytelling emocional. Audio: refuerza la identidad sonora; útil en podcasts, audios motivacionales y narración de marca. Texto: cimiento estructural de toda narrativa; debe adaptarse al formato y audiencia.")
+        <br>
         figcaption 
           p <b>Fuente:</b> SENA, 2025.
     
@@ -123,6 +124,7 @@
         figure
           img(src="@/assets/curso/temas/tema_5/img_11.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="La ilustración muestra tres criterios de evaluación de la calidad de recursos: La estética visual implica coherencia en la composición, armonía cromática, uso adecuado de tipografías y efectos gráficos (Briggs & Burke, 2014).  La coherencia narrativa exige que imagen, texto y sonido se integren en función del mensaje principal, sin distractores innecesarios (Ryan, 2020). El potencial de engagement se mide en función de la capacidad para conectar con la audiencia: mensajes relevantes, empáticos y memorables (Hyland, 2019).")
           img(src="@/assets/curso/temas/tema_5/img_12.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="La ilustración muestra tres criterios de evaluación de la calidad de recursos: La estética visual implica coherencia en la composición, armonía cromática, uso adecuado de tipografías y efectos gráficos (Briggs & Burke, 2014).  La coherencia narrativa exige que imagen, texto y sonido se integren en función del mensaje principal, sin distractores innecesarios (Ryan, 2020). El potencial de engagement se mide en función de la capacidad para conectar con la audiencia: mensajes relevantes, empáticos y memorables (Hyland, 2019).")
+        <br>
         figcaption 
           p <b>Fuente:</b> SENA, 2025.
 </template>
