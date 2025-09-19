@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-atlantico.github.io/63110191_CF02_Planeacion_de_contenidos_digitales/](https://ecored-atlantico.github.io/63110191_CF02_Planeacion_de_contenidos_digitales/)
+[ https://ecored-atlantico.github.io/63110191_CF02_Contenidos_digitales_basados_en_storytelling/]( https://ecored-atlantico.github.io/63110191_CF02_Contenidos_digitales_basados_en_storytelling/)
 
 #
 
