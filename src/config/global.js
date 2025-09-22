@@ -398,12 +398,12 @@ export default {
       autores: [
         {
           nombre: 'María Fernanda Morales Angulo',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios – Regional Atlántico',
         },
         {

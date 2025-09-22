@@ -13,11 +13,11 @@
       .col-12.col-lg-8.mb-lg-0.mb-0(data-aos="fade-left")
         .row.justify-content-center.align-items-stard.mb-2
           .col-12.col-lg-10.mb-0
-            p.mb-0 Este componente ofrece una visión integral del storytelling como herramienta estratégica para la creación de contenidos digitales con propósito. A lo largo de sus seis unidades temáticas, se abordan los fundamentos narrativos, su impacto en la comunicación y el marketing, así como las conexiones emocionales que fortalecen el vínculo entre marca y audiencia.
+            p.mb-0 Este componente ofrece una visión integral del <i>storytelling</i> como herramienta estratégica para la creación de contenidos digitales con propósito. A lo largo de sus seis unidades temáticas, se abordan los fundamentos narrativos, su impacto en la comunicación y el <i>marketing</i>, así como las conexiones emocionales que fortalecen el vínculo entre marca y audiencia.
           .col-12.col-lg-2.d-none.d-lg-block.mb-0
             figure
               img(src="@/assets/curso/sintesis/img_2.png", class="img-fluid")  
-        p.mb-0 Se exploran diversos tipos de narrativas y se analizan casos de éxito como Airbnb, Dove y Spotify, que demuestran cómo las historias bien construidas generan confianza, fidelización y posicionamiento. Además, se presentan técnicas para fortalecer el engagement, adaptando los relatos a formatos digitales como blogs, redes sociales, videos y experiencias interactivas.
+        p.mb-0 Se exploran diversos tipos de narrativas y se analizan casos de éxito como Airbnb, Dove y Spotify, que demuestran cómo las historias bien construidas generan confianza, fidelización y posicionamiento. Además, se presentan técnicas para fortalecer el <i>engagement</i>, adaptando los relatos a formatos digitales como blogs, redes sociales, videos y experiencias interactivas.
 
     .row.justify-content-center.align-items-stard.mb-3
       .col-12.col-lg-9.order-2.order-lg-1(data-aos="fade-left")

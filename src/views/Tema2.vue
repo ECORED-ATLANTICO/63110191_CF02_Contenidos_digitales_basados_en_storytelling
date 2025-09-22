@@ -87,7 +87,7 @@
                 th Aplicación en <em>Storytelling</em>
             tbody
               tr
-                td  Redes Sociales
+                td  Redes sociales
                 td  Uso de imágenes y videos cortos que transmiten emociones inmediatas.
               tr
                 td  Blogs
@@ -173,8 +173,8 @@
             h5 Figura 2.
             |    Estrategias para mejorar el <em>engagement</em> con <em>Storytelling</em> 
           figure
-            img(src="@/assets/curso/temas/tema_2/img_16.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="En la Ilustración se muestran las Estrategias para Mejorar el Engagement con Storytelling • Interactividad: permitir que los usuarios participen en la historia. • Uso de emociones: apelar a sentimientos profundos para generar conexión.  • Narrativa personalizada: adaptar el contenido según los intereses del público. • Multiformato: presentar la historia en diversos medios (video, blog, redes sociales). • Consistencia de mensaje: mantener coherencia en la historia a lo largo de los canales digitales.")
-            img(src="@/assets/curso/temas/tema_2/img_17.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="En la Ilustración se muestran las Estrategias para Mejorar el Engagement con Storytelling • Interactividad: permitir que los usuarios participen en la historia. • Uso de emociones: apelar a sentimientos profundos para generar conexión.  • Narrativa personalizada: adaptar el contenido según los intereses del público. • Multiformato: presentar la historia en diversos medios (video, blog, redes sociales). • Consistencia de mensaje: mantener coherencia en la historia a lo largo de los canales digitales.")
+            img(src="@/assets/curso/temas/tema_2/img_16.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="En la figura se muestran las Estrategias para Mejorar el Engagement con Storytelling • Interactividad: permitir que los usuarios participen en la historia. • Uso de emociones: apelar a sentimientos profundos para generar conexión.  • Narrativa personalizada: adaptar el contenido según los intereses del público. • Multiformato: presentar la historia en diversos medios (video, blog, redes sociales). • Consistencia de mensaje: mantener coherencia en la historia a lo largo de los canales digitales.")
+            img(src="@/assets/curso/temas/tema_2/img_17.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="En la figura se muestran las Estrategias para Mejorar el Engagement con Storytelling • Interactividad: permitir que los usuarios participen en la historia. • Uso de emociones: apelar a sentimientos profundos para generar conexión.  • Narrativa personalizada: adaptar el contenido según los intereses del público. • Multiformato: presentar la historia en diversos medios (video, blog, redes sociales). • Consistencia de mensaje: mantener coherencia en la historia a lo largo de los canales digitales.")
           figcaption 
             p <b> Fuente:</b> SENA 2024.
 </template>

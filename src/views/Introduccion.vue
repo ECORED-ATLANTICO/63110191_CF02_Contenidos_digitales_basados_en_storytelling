@@ -21,7 +21,7 @@
           img(src='@/assets/curso/introduccion/img_1.png', class="img-fluid").height-100
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/X-HAyBJi1MI?si=FsYSgWCUXctMSAtO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/XtJsfNhoDWo?si=_RbBpMwU3qqWIfmR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
       
 </template>

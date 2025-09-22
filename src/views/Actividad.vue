@@ -22,7 +22,7 @@ export default {
       introduccion:
         '<b> Objetivo:</b> reforzar el análisis crítico de las estrategias narrativas, la planificación de contenidos y el uso de herramientas digitales, promoviendo la apropiación de saberes aplicables a contextos reales de comunicación, mediante preguntas tipo verdadero/falso que promuevan el razonamiento crítico y la reafirmación conceptual.',
       barajarPreguntas: true,
-      titulo_aprobado: '¡BUEN TRABAJO!.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
       preguntas: [
         {
@@ -235,7 +235,7 @@ export default {
         {
           id: 10,
           texto:
-            'El engagement se fortalece cuando el contenido permite participación, emoción y personalización.',
+            'El <i>engagement</i> se fortalece cuando el contenido permite participación, emoción y personalización.',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
