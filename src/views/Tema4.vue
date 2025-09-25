@@ -136,21 +136,21 @@
                 th.col-5 Ejemplo empresarial
             tbody
               tr
-                td  Metáfora emocional
-                td  Evocar sentimientos simbólicos
-                td  “Haz clic y empieza tu viaje” - Expedia
+                td  Metáfora emocional.
+                td  Evocar sentimientos simbólicos.
+                td  “Haz clic y empieza tu viaje” - Expedia.
               tr
-                td  Pregunta retórica
-                td  Involucrar al lector
-                td  “¿Estás listo para el cambio?” - IBM
+                td  Pregunta retórica.
+                td  Involucrar al lector.
+                td  “¿Estás listo para el cambio?” - IBM.
               tr
-                td  Problema - solución
-                td  Estructura convincente
-                td  “Demasiado tráfico. Descárgalo en segundos.” - <em>Waze</em>
+                td  Problema - solución.
+                td  Estructura convincente.
+                td  “Demasiado tráfico. Descárgalo en segundos” - <em>Waze</em>.
               tr
-                td Frase corta con acción
-                td Estimula decisión inmediata
-                td “Suscríbete y transforma tu rutina” - <em>Headspace</em>
+                td Frase corta con acción.
+                td Estimula decisión inmediata.
+                td “Suscríbete y transforma tu rutina” - <em>Headspace</em>.
       
       .col-12.col-lg-10.mb-3
 
@@ -189,7 +189,7 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-7.p-5
             .row.justify-content-center.align-items-center
               .col-12.col-lg-8.order-2.order-lg-1
-                p.cita-decorada__texto <B>Ejemplo empresarial</B> Netflix adapta sus campañas promocionales según el canal: en redes sociales utiliza videos cortos, en blogs desarrolla análisis de tendencias y en plataformas de <em>streaming</em> lanza <em>trailers</em> completos para captar la audiencia de manera más efectiva.
+                p.cita-decorada__texto <B>Ejemplo empresarial.</B> Netflix adapta sus campañas promocionales según el canal: en redes sociales utiliza videos cortos, en <i>blogs</i> desarrolla análisis de tendencias y en plataformas de <em>streaming</em> lanza <em>trailers</em> completos para captar la audiencia de manera más efectiva.
               .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                 img(src="@/assets/curso/temas/tema_4/img_11.png",  class="img-fluid cita-decorada__imagen-flotante-8")
     
@@ -213,7 +213,7 @@
                   img(src='@/assets/curso/temas/tema_4/img_13.png')
             .row.justify-content-center.align-items-center
               .col-10.col-lg-6.order-2.order-lg-1.mb-0
-                h5 Blogs y artículos
+                h5 <i>Blogs</i> y artículos
                 p.mb-0 Narrativas extensas y bien estructuradas para informar con profundidad.
               .col-6.col-lg-3.order-1.order-lg-2.mb-lg-0.mb-3
                 figure

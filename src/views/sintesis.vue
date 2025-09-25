@@ -2,9 +2,6 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-sexto.color-acento-contenido.mb-3
-      h5.mb-0 Planeación de contenidos digitales basados en <em>Storytelling</em>
-        p.span Síntesis: Estrategias de contenido  
     
     .row.justify-content-center.align-items-stard.mb-3
       .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="fade-left")
@@ -17,7 +14,7 @@
           .col-12.col-lg-2.d-none.d-lg-block.mb-0
             figure
               img(src="@/assets/curso/sintesis/img_2.png", class="img-fluid")  
-        p.mb-0 Se exploran diversos tipos de narrativas y se analizan casos de éxito como Airbnb, Dove y Spotify, que demuestran cómo las historias bien construidas generan confianza, fidelización y posicionamiento. Además, se presentan técnicas para fortalecer el <i>engagement</i>, adaptando los relatos a formatos digitales como blogs, redes sociales, videos y experiencias interactivas.
+        p.mb-0 Se exploran diversos tipos de narrativas y se analizan casos de éxito como Airbnb, Dove y Spotify, que demuestran cómo las historias bien construidas generan confianza, fidelización y posicionamiento. Además, se presentan técnicas para fortalecer el <i>engagement</i>, adaptando los relatos a formatos digitales como <i>blogs</i>, redes sociales, videos y experiencias interactivas.
 
     .row.justify-content-center.align-items-stard.mb-3
       .col-12.col-lg-9.order-2.order-lg-1(data-aos="fade-left")
@@ -32,7 +29,7 @@
     .row.justify-content-center
       .col-12.col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis/sintesis.svg", alt="El componente Estrategias de contenido, desarrolla seis temáticas, Storytelling en donde se aborda elementos narrativos, importancia y conexiones emocionales; estrategias de contenido, compuesta por narrativas comunes, adaptación de narrativas, casos de éxito y engagement; planificación estratégica con objetivos, calendarios, mapas de contenidos y herramientas; producción de contenidos con tipos, proceso, técnicas y adaptación; herramientas de producción con texto, imagen y sonido, y calidad de recursos; finaliza con técnicas de escritura, donde se aborda redacción persuasiva y creativa, captación de atención y mensajes breves.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

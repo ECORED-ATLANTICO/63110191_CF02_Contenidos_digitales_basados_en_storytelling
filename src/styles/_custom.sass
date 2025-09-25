@@ -115,9 +115,11 @@ figcaption
     position: relative
     h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
       position: relative
-    &::before
+      z-index: 0
+    &::before   
       content: ''
       position: absolute
+      z-index: -1
       margin: 0
       top: 720px
       left: -48px
@@ -173,9 +175,11 @@ figcaption
     position: relative
     h1, h2, h3, h4, h5, h6, p, separador, figure, .tarjeta, .titulo-segundo, .titulo-sexto, .div, .row, .tabla-a, table, caption, thead, tbody
       position: relative
+      z-index: 0
     &::before
       content: ''
       position: absolute
+      z-index: -1
       margin: 0
       top: -385px
       left: -48px

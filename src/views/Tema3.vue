@@ -67,7 +67,7 @@
             blockquote.cita-decorada__caja.cita-decorada__caja--fondo-5.p-5
               .row.justify-content-center.align-items-center
                 .col-12.col-lg-8.order-2.order-lg-1
-                  p.cita-decorada__texto  <B>Ejemplo empresarial.</B> HubSpot estructura sus estrategias de contenido con el objetivo de educar a su audiencia, publicando blogs, tutoriales y cursos gratuitos sobre <em>marketing</em> digital.
+                  p.cita-decorada__texto  <B>Ejemplo empresarial.</B> HubSpot estructura sus estrategias de contenido con el objetivo de educar a su audiencia, publicando <i>blogs</i>, tutoriales y cursos gratuitos sobre <em>marketing</em> digital.
                 .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                   img(src='@/assets/curso/temas/tema_3/img_5.png',  class="img-fluid cita-decorada__imagen-flotante-6")
 
@@ -97,7 +97,7 @@
             .col-12.mb-0.d-flex
               .tarjeta--5
             .tarjeta--slider__title.mb-3.text-center.fw-bold.pt-0.pb-0.p-1 Tipo de contenido 
-            .tarjeta--slider__content.text-center.pt-0.pb-5.p-3 Definir si es video, blog, post en redes, etc.
+            .tarjeta--slider__content.text-center.pt-0.pb-5.p-3 Definir si es video, <i>blog</i>, <i>post</i> en redes, etc.
       .col-10.col-lg-2.mb-lg-0.mb-5
         .tarjeta--color-fondo-1.h-100
           .row.justify-content-center.align-items-center.mb-0

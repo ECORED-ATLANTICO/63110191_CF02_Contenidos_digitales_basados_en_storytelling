@@ -103,13 +103,13 @@
           ul.list-unstyled
             li.d-flex.align-items-start.mb-1
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #F8AA5E; font-size: 15px; line-height: 1.5;")
-              |   <em>Shorts</em> (15-60 seg)
+              |   <span><em>Shorts</em> (15–60 seg)</span>
             li.d-flex.align-items-start.mb-1
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #F8AA5E; font-size: 15px; line-height: 1.5;")
-              |   <em>Tweets</em> (280 caracteres)
+              |   <span><em>Tweets</em> (280 caracteres)</span>
             li.d-flex.align-items-start.mb-1
               i.fa-solid.fa-circle-check.me-2.flex-shrink-0(style="color: #F8AA5E; font-size: 15px; line-height: 1.5;")
-              |   CTAs (<em>Call to Action</em>): “Descubre tu historia aquí”
+              |   <span>CTAs (<em>Call to Action</em>): “Descubre tu historia aquí”</span>
 
         .col-12.col-lg-5.mb-lg-0.mb-3.p-0
           figure.p-0
@@ -120,7 +120,7 @@
         figure
           img(src="@/assets/curso/temas/tema_6/img_10.png", class="img-fluid")
       .col-12.col-lg-7(data-aos="fade-left")
-        p.mb-3 Las plataformas como TikTok, Instagram Stories o incluso los anuncios de Spotify han demostrado que las historias breves bien construidas logran <em>engagement</em> emocional y recordación de marca. 
+        p.mb-3 Las plataformas como TikTok, Instagram <i>Stories</i> o incluso los anuncios de Spotify han demostrado que las historias breves bien construidas logran <em>engagement</em> emocional y recordación de marca. 
         p.mb-0 El <em>Storytelling</em> aplicado en campañas reales permite comprender cómo las técnicas narrativas se traducen en resultados concretos de comunicación, <em>engagement</em> y posicionamiento de marca. Las grandes compañías han dejado claro que el relato bien construido no solo vende, sino que conecta, transforma y perdura. 
     
     .row.justify-content-center.align-items-center.mb-5
@@ -129,7 +129,7 @@
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-12.p-5
             .row.justify-content-center.align-items-center
               .col-12.col-lg-8.order-2.order-lg-1
-                p.cita-decorada__texto <B>Ejemplo empresarial.</B> un ejemplo emblemático es la campaña de Coca-Cola “Comparte una Coca-Cola”, que convirtió un producto cotidiano en una historia personal al incluir nombres propios en las botellas. Esta iniciativa apeló a la identificación del consumidor y generó millones de interacciones espontáneas (Heath & Heath, 2007).
+                p.cita-decorada__texto <B>Ejemplo empresarial.</B> Un ejemplo emblemático es la campaña de Coca-Cola “Comparte una Coca-Cola”, que convirtió un producto cotidiano en una historia personal al incluir nombres propios en las botellas. Esta iniciativa apeló a la identificación del consumidor y generó millones de interacciones espontáneas (Heath & Heath, 2007).
               .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                 img(src="@/assets/curso/temas/tema_6/img_12.png",  class="img-fluid cita-decorada__imagen-flotante-10")
     

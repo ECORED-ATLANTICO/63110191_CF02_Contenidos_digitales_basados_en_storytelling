@@ -12,11 +12,11 @@
           figure
             img(src="@/assets/curso/temas/tema_1/img_1.png", class="img-fluid")
         .col-12.col-lg-7
-          p.mb-3(data-aos="fade-left") El <em>Storytelling</em> es una técnica de comunicación utilizada para transmitir mensajes a través de historias persuasivas, generando conexiones emocionales con el público; su aplicación en el <em>marketing</em> y la gestión de contenido digital permite captar la atención de la audiencia y mejorar la experiencia del usuario.
+          p.mb-3(data-aos="fade-left") El <em>storytelling</em> es una técnica de comunicación utilizada para transmitir mensajes a través de historias persuasivas, generando conexiones emocionales con el público; su aplicación en el <em>marketing</em> y la gestión de contenido digital permite captar la atención de la audiencia y mejorar la experiencia del usuario.
           .bloque-texto-b.color-acento-contenido-5.p-4(data-aos="fade-left")
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h4.mb-0 Según Kotler y Keller (2016), el <em>Storytelling</em> consiste en la construcción de relatos estratégicos que buscan influir en las percepciones, emociones y decisiones del consumidor.
+              h4.mb-0 Según Kotler y Keller (2016), el <em>storytelling</em> consiste en la construcción de relatos estratégicos que buscan influir en las percepciones, emociones y decisiones del consumidor.
               i.fas.fa-quote-right
 
         .col-12.col-lg-10.mb-3
@@ -65,7 +65,7 @@
               blockquote.cita-decorada__caja.cita-decorada__caja--fondo-1.p-4
                 .row.justify-content-center.align-items-center
                   .col-12.col-lg-8.order-2.order-lg-1
-                    p.cita-decorada__texto  <B>Ejemplo empresarial.</B> Coca-Cola emplea el <em>Storytelling</em> emocional, construyendo historias sobre felicidad, unión y momentos especiales, lo que fortalece la conexión de la marca con sus consumidores.
+                    p.cita-decorada__texto  <B>Ejemplo empresarial.</B> Coca-Cola emplea el <em>storytelling</em> emocional, construyendo historias sobre felicidad, unión y momentos especiales, lo que fortalece la conexión de la marca con sus consumidores.
                   .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                     img(src='@/assets/curso/temas/tema_1/img_7.png',  class="img-fluid cita-decorada__imagen-flotante-1")
 
@@ -85,13 +85,13 @@
             img(src="@/assets/curso/temas/tema_1/img_8.png", class="img-fluid").mb-0
         .col-12.col-lg-8.mb-0(data-aos="fade-left")
           .cajon.color-terciario-5.p-4.mb-0
-            p.mb-0 El <em>Storytelling</em> es una herramienta poderosa en estrategias de <em>marketing</em>, ya que permite a las marcas crear experiencias memorables y emocionales en sus consumidores.
+            p.mb-0 El <em>storytelling</em> es una herramienta poderosa en estrategias de <em>marketing</em>, ya que permite a las marcas crear experiencias memorables y emocionales en sus consumidores.
 
       .row.justify-content-center.align-items-center.mb-3
         .col-12.col-lg-10.mb-4
           .titulo-sexto.color-acento-contenido
               h5 Tabla 1.
-              |  Beneficios del <em>Storytelling</em> en estrategias de <em>marketing</em>
+              |  Beneficios del <em>storytelling</em> en estrategias de <em>marketing</em>
           .tabla-a.mb-5
             table
               caption
@@ -99,7 +99,7 @@
               thead
                 tr
                   th.col-3 Beneficio
-                  th Impacto en la Audiencia
+                  th Impacto en la audiencia
               tbody
                 tr
                   td  Humanización de la marca
@@ -122,7 +122,7 @@
                   img(src='@/assets/curso/temas/tema_1/img_10.png',  class="img-fluid cita-decorada__imagen-flotante-2")
                 .col-12.col-lg-8.cita-decorada__texto
                   h5 Qué es y cómo hacer un <em>storytelling</em>
-                  p A continuación, un video donde se apreciar la importancia del <em>Storytelling</em> en el marketing.
+                  p A continuación, un video donde se apreciar la importancia del <em>storytelling</em> en el marketing.
                 .col-6.col-lg-3
                   a.ms-lg-0.ms-5.cita-decorada__imagen-flotante-3.boton.color-acento-botones(href="https://www.youtube.com/watch?v=77TAn3GuKSg" target="_blank")
                     span Ver video
@@ -137,7 +137,7 @@
           .h2(data-aos="fade-right") 1.3	Conexiones emocionales
         .mb-3
 
-        p.mb-5 El <em>Storytelling</em> no solo informa, sino que emociona y genera vínculos con el público; la clave para que una historia sea impactante es que resuene con las emociones y aspiraciones de las personas.
+        p.mb-5 El <em>storytelling</em> no solo informa, sino que emociona y genera vínculos con el público; la clave para que una historia sea impactante es que resuene con las emociones y aspiraciones de las personas.
     
       .row.justify-content-center.align-items-center.mb-5
         .col-10.col-sm-10.col-md-10.col-lg-10.col-xl-10.col-xxl-10.mb-2

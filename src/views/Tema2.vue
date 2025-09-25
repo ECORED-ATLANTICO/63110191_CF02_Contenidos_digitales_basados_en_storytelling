@@ -11,7 +11,7 @@
       .bloque-texto-t__img.mb-0
         img(src='@/assets/curso/temas/tema_2/img_1.png')
       .bloque-texto-t__texto.col-10.mb-0
-        p.mb-0 El <em>Storytelling</em> se materializa en la creación de estrategias de contenido que permiten transmitir mensajes de manera persuasiva y conectar con la audiencia. Estas estrategias se basan en diferentes tipos de narrativas, adaptadas según el contexto y el canal de comunicación.
+        p.mb-0 El <em>storytelling</em> se materializa en la creación de estrategias de contenido que permiten transmitir mensajes de manera persuasiva y conectar con la audiencia. Estas estrategias se basan en diferentes tipos de narrativas, adaptadas según el contexto y el canal de comunicación.
 
     separador
           
@@ -19,7 +19,7 @@
       .h2(data-aos="fade-right") 2.1	Narrativas comunes
     .mb-3
 
-    p.mb-5 Existen diversos enfoques narrativos dentro del <em>Storytelling</em>, cada uno con estructuras y objetivos distintos; los más utilizados en el <em>marketing</em> y la comunicación digital incluyen:
+    p.mb-5 Existen diversos enfoques narrativos dentro del <em>storytelling</em>, cada uno con estructuras y objetivos distintos; los más utilizados en el <em>marketing</em> y la comunicación digital incluyen:
     
     .row.justify-content-center.align-items-center.mb-5
       .col-8.col-lg-4.mb-lg-0.mb-3(data-aos="zoom-in-right")
@@ -70,7 +70,7 @@
         .h2(data-aos="fade-right") 2.2	Adaptación de narrativas
       .mb-3
 
-      p.mb-5 El <em>Storytelling</em> no es estático, debe ajustarse a los distintos formatos digitales, garantizando su efectividad según el canal en el que se distribuye.
+      p.mb-5 El <em>storytelling</em> no es estático, debe ajustarse a los distintos formatos digitales, garantizando su efectividad según el canal en el que se distribuye.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-lg-10.mb-4
@@ -83,14 +83,14 @@
               p <b>Fuente:</b> Adaptado de HubSpot, 2022.
             thead
               tr.bg-table-01
-                th.col-3 Formato Digital
-                th Aplicación en <em>Storytelling</em>
+                th.col-3 Formato digital
+                th Aplicación en <em>storytelling</em>
             tbody
               tr
                 td  Redes sociales
                 td  Uso de imágenes y videos cortos que transmiten emociones inmediatas.
               tr
-                td  Blogs
+                td  <i>Blogs</i>
                 td  Desarrollo de relatos extensos con estructura narrativa completa.
               tr
                 td  Videos
@@ -105,7 +105,7 @@
               .col-12.col-lg-3.d-none.d-lg-block
                 img(src="@/assets/curso/temas/tema_2/img_10.png", class="img-fluid cita-decorada__imagen-flotante-5")
               .col-12.col-lg-9.cita-decorada__texto
-                p.mb-0 <B>Ejemplo empresarial.</B> Airbnb adapta sus historias según el formato; en su blog publica relatos de viajeros, en redes sociales comparte imágenes inspiradoras, y en video presenta testimonios de huéspedes.
+                p.mb-0 <B>Ejemplo empresarial.</B> Airbnb adapta sus historias según el formato; en su <i>blog</i> publica relatos de viajeros, en redes sociales comparte imágenes inspiradoras, y en video presenta testimonios de huéspedes.
               
       .col-12.col-lg-10.mb-3
 
@@ -119,22 +119,22 @@
       .col-10.col-lg-2.mb-3
         img(src="@/assets/curso/temas/tema_2/img_11.png", class="img-fluid")
       .col-12.col-lg-8.mb-3
-        p.mb-0 El <em>Storytelling</em> ha sido utilizado por grandes empresas para mejorar la conexión con su audiencia, diferenciarse en el mercado y fortalecer sus estrategias de <em>marketing</em> digital; a continuación, se presentan casos reales donde el <em>Storytelling</em> ha sido clave en la estrategia de comunicación.
+        p.mb-0 El <em>storytelling</em> ha sido utilizado por grandes empresas para mejorar la conexión con su audiencia, diferenciarse en el mercado y fortalecer sus estrategias de <em>marketing</em> digital; a continuación, se presentan casos reales donde el <em>storytelling</em> ha sido clave en la estrategia de comunicación.
     .bg_img_4.mb-5
       SlyderA(tipo="b").tarjeta.tarjeta--blanca.p-5
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
-            h5 Airbnb - <em>Storytelling</em> basado en experiencias de usuarios
+            h5 Airbnb - <em>storytelling</em> basado en experiencias de usuarios
             p.mb-3 Airbnb ha construido su estrategia de comunicación en torno a historias reales de viajeros, mostrando cómo sus anfitriones y huéspedes han vivido experiencias únicas gracias a la plataforma.
             p.mb-0 <B>Narrativa utilizada:</B> transformación y emocional.
-            p.mb-0 <B>Aplicación:</B> relatos de viajeros en blogs y videos.
+            p.mb-0 <B>Aplicación:</B> relatos de viajeros en <i>blogs</i> y videos.
             p.mb-0 <B>Impacto:</B> mayor confianza en la marca y crecimiento de usuarios.
           .col-12.col-lg-5.order-1.order-lg-2.mb-lg-0.mb-3
             figure
               img(src='@/assets/curso/temas/tema_2/img_12.png')
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
-            h5 Dove - <em>Storytelling</em> de Empoderamiento y Diversidad
+            h5 Dove - <em>storytelling</em> de Empoderamiento y Diversidad
             p.mb-3 Dove implementó una campaña llamada <em>"Real Beauty"</em>, en la que mostraba historias de mujeres reales, promoviendo la aceptación de la belleza natural.
             p.mb-0 <B>Narrativa utilizada:</B> emocional y social.
             p.mb-0 <B>Aplicación:</B> videos, testimonios y campañas en redes sociales.
@@ -144,7 +144,7 @@
               img(src='@/assets/curso/temas/tema_2/img_13.png', class="img-fluid")
         .row.justify-content-center.align-items-center
           .col-12.col-lg-5.order-2.order-lg-1.mb-0
-            h5 Spotify - <em>Storytelling</em> de identidad y cotidianidad musical
+            h5 Spotify - <em>storytelling</em> de identidad y cotidianidad musical
             p.mb-3 Spotify, mediante campañas como <em>“Wrapped”</em>, ofrece resúmenes personalizados que evocan recuerdos y emociones, fortaleciendo la conexión emocional del usuario con la plataforma al reflejar su evolución y momentos vividos.
             p.mb-0 <B>Narrativa utilizada:</B> identitaria, introspectiva y experiencial.
             p.mb-0 <B>Aplicación:</B> campañas visuales y sociales basadas en datos personalizados (Spotify <em>Wrapped</em>).
@@ -165,13 +165,13 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema_2/img_15.png')})`}"
         )
         .bloque-texto-g__texto.p-4
-          p.mb-0 El <em>engagement</em> es un factor clave en la comunicación digital, ya que determina el nivel de interacción y conexión que el público establece con un contenido; aplicar técnicas adecuadas de <em>Storytelling</em> permite fortalecer el compromiso de la audiencia y aumentar la efectividad de las estrategias.
+          p.mb-0 El <em>engagement</em> es un factor clave en la comunicación digital, ya que determina el nivel de interacción y conexión que el público establece con un contenido; aplicar técnicas adecuadas de <em>storytelling</em> permite fortalecer el compromiso de la audiencia y aumentar la efectividad de las estrategias.
       
       .row.justify-content-center.align-items-center.mb-5
         .col-12.col-lg-10.mb-2
           .titulo-sexto.color-acento-contenido
             h5 Figura 2.
-            |    Estrategias para mejorar el <em>engagement</em> con <em>Storytelling</em> 
+            |    Estrategias para mejorar el <em>engagement</em> con <em>storytelling</em> 
           figure
             img(src="@/assets/curso/temas/tema_2/img_16.svg", class="img-fluid d-none d-lg-block img100 mb-3" alt="En la figura se muestran las Estrategias para Mejorar el Engagement con Storytelling • Interactividad: permitir que los usuarios participen en la historia. • Uso de emociones: apelar a sentimientos profundos para generar conexión.  • Narrativa personalizada: adaptar el contenido según los intereses del público. • Multiformato: presentar la historia en diversos medios (video, blog, redes sociales). • Consistencia de mensaje: mantener coherencia en la historia a lo largo de los canales digitales.")
             img(src="@/assets/curso/temas/tema_2/img_17.svg", class="img-fluid d-block d-lg-none img100 mb-3" alt="En la figura se muestran las Estrategias para Mejorar el Engagement con Storytelling • Interactividad: permitir que los usuarios participen en la historia. • Uso de emociones: apelar a sentimientos profundos para generar conexión.  • Narrativa personalizada: adaptar el contenido según los intereses del público. • Multiformato: presentar la historia en diversos medios (video, blog, redes sociales). • Consistencia de mensaje: mantener coherencia en la historia a lo largo de los canales digitales.")

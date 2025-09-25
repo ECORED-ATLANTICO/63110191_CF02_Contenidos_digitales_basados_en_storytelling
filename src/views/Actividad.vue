@@ -97,7 +97,7 @@ export default {
         {
           id: 4,
           texto:
-            'Coca-Cola utiliza el <i>storytelling</i> emocional para reforzar valores como la felicidad y la unión.',
+            'Coca-Cola utiliza el <i>ng</i> emocional para reforzar valores como la felicidad y la unión.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
