@@ -19,10 +19,11 @@
       .col-8.col-lg-3.d-flex
         figure.w-100.d-flex.flex-column
           img(src='@/assets/curso/introduccion/img_1.png', class="img-fluid").height-100
-    figure
+    figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/XtJsfNhoDWo?si=_RbBpMwU3qqWIfmR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        
+      figcaption Video: Leyenda del video
+
 </template>
 
 <script>
