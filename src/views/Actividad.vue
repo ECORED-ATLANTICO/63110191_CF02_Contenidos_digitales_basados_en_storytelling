@@ -442,7 +442,7 @@ export default {
         {
           id: 19,
           texto:
-            '<i>Canva, CapCut y Audacity</i> son herramientas que permiten integrar imagen, texto y sonido en piezas narrativas.',
+            'Canva, CapCut y Audacity son herramientas que permiten integrar imagen, texto y sonido en piezas narrativas.',
           imagen: require('@/assets/actividad/imagen5.png'),
           barajarRespuestas: true,
           opciones: [

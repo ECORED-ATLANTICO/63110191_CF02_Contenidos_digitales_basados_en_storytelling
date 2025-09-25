@@ -121,7 +121,7 @@
           img(src="@/assets/curso/temas/tema_6/img_10.png", class="img-fluid")
       .col-12.col-lg-7(data-aos="fade-left")
         p.mb-3 Las plataformas como TikTok, Instagram <i>Stories</i> o incluso los anuncios de Spotify han demostrado que las historias breves bien construidas logran <em>engagement</em> emocional y recordación de marca. 
-        p.mb-0 El <em>Storytelling</em> aplicado en campañas reales permite comprender cómo las técnicas narrativas se traducen en resultados concretos de comunicación, <em>engagement</em> y posicionamiento de marca. Las grandes compañías han dejado claro que el relato bien construido no solo vende, sino que conecta, transforma y perdura. 
+        p.mb-0 El <em>storytelling</em> aplicado en campañas reales permite comprender cómo las técnicas narrativas se traducen en resultados concretos de comunicación, <em>engagement</em> y posicionamiento de marca. Las grandes compañías han dejado claro que el relato bien construido no solo vende, sino que conecta, transforma y perdura. 
     
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10(data-aos="fade-left")

@@ -59,7 +59,7 @@
                 td  <a href="https://www.capcut.com/es-es" target="_blank"><u>CapCut</u></a>
               tr
                 td  Clipchamp
-                td  Herramienta de Microsoft, destaca por sus plantillas orientadas a <em>Storytelling</em> visual.
+                td  Herramienta de Microsoft, destaca por sus plantillas orientadas a <em>storytelling</em> visual.
                 td  <a href="https://clipchamp.com/es/" target="_blank"><u>Clipchamp</u></a>
               tr
                 td  Audacity

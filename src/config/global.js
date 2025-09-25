@@ -60,7 +60,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Estrategias de contenidos basadas en <i>Storytelling</i>',
+        titulo: 'Estrategias de contenidos basadas en <i>storytelling</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
