@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Estrategias de contenidos
+      h1 Estrategias de contenidos basadas en <i>storytelling</i>:
 
     .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
@@ -156,7 +156,7 @@
     separador
       
     #t_2_4.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 2.4 <em>Engagement</em> 
+      .h2(data-aos="fade-right") 2.4 Técnicas para fortalecer el <em>Engagement</em> 
     .mb-3
     
     .bg_img_5.mb-3

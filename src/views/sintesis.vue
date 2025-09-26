@@ -29,7 +29,10 @@
     .row.justify-content-center
       .col-12.col-lg-12.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis/sintesis.svg", alt="El componente Estrategias de contenido, desarrolla seis temáticas, Storytelling en donde se aborda elementos narrativos, importancia y conexiones emocionales; estrategias de contenido, compuesta por narrativas comunes, adaptación de narrativas, casos de éxito y engagement; planificación estratégica con objetivos, calendarios, mapas de contenidos y herramientas; producción de contenidos con tipos, proceso, técnicas y adaptación; herramientas de producción con texto, imagen y sonido, y calidad de recursos; finaliza con técnicas de escritura, donde se aborda redacción persuasiva y creativa, captación de atención y mensajes breves.")
+          img(
+            src="@/assets/curso/sintesis/sintesis.svg", 
+            alt='El componente "Estrategias de contenido", desarrolla seis temáticas, storytelling en donde se aborda elementos narrativos, importancia y conexiones emocionales; estrategias de contenido, compuesta por narrativas comunes, adaptación de narrativas, casos de éxito y engagement; planificación estratégica con objetivos, calendarios, mapas de contenidos y herramientas; producción de contenidos con tipos, proceso, técnicas y adaptación; herramientas de producción con texto, imagen y sonido, y calidad de recursos; finaliza con técnicas de escritura, donde se aborda redacción persuasiva y creativa, captación de atención y mensajes breves.'
+          )
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

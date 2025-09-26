@@ -20,11 +20,16 @@
               i.fas.fa-quote-right
 
         .col-12.col-lg-10.mb-3
+          separador
+          
+          #t_1_1.titulo-segundo.color-acento-contenido
+            .h2(data-aos="fade-right") 1.1	Concepto 
+          .mb-3
 
           separador
 
-          #t_1_1.titulo-segundo.color-acento-contenido
-            .h2(data-aos="fade-right") 1.1	Elementos narrativos 
+          #t_1_2.titulo-segundo.color-acento-contenido
+            .h2(data-aos="fade-right") 1.2	Elementos narrativos 
           .mb-3
           
           p.mb-5(data-aos="fade-left") Para desarrollar una historia efectiva, es importante incluir los siguientes elementos narrativos:
@@ -74,8 +79,8 @@
 
         separador
           
-        #t_1_2.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 1.2	Importancia
+        #t_1_3.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 1.3	Importancia del <i>marketing</i>
         .mb-3
 
     .bg_img_2.mb-3
@@ -133,8 +138,8 @@
 
         separador
 
-        #t_1_3.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 1.3	Conexiones emocionales
+        #t_1_4.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 1.4	Conexiones emocionales
         .mb-3
 
         p.mb-5 El <em>storytelling</em> no solo informa, sino que emociona y genera vínculos con el público; la clave para que una historia sea impactante es que resuene con las emociones y aspiraciones de las personas.

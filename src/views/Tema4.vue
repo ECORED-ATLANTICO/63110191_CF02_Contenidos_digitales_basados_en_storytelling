@@ -20,11 +20,16 @@
             i.fas.fa-quote-right
       
       .col-12.col-lg-10
-
         separador  
 
         #t_4_1.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 4.1	Tipos 
+          .h2(data-aos="fade-right") 4.1	Fundamentos 
+        .mb-3
+
+        separador  
+
+        #t_4_2.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.2	Tipos y características  
         .mb-3
           
     .bg_img_5.mb-3
@@ -43,8 +48,8 @@
 
     separador  
 
-    #t_4_2.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 4.2	Proceso 
+    #t_4_3.titulo-segundo.color-acento-contenido
+      .h2(data-aos="fade-right") 4.3	Proceso 
     .mb-3
 
     .tarjeta.color-primario-5.rounded-0.p-0.mb-5.p-3.p-lg-0
@@ -83,8 +88,8 @@
 
     separador  
 
-    #t_4_3.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 4.3 Técnicas 
+    #t_4_4.titulo-segundo.color-acento-contenido
+      .h2(data-aos="fade-right") 4.4 Técnicas de persuasión   
     .mb-3
     
     .row.justify-content-center.align-items-center.mb-5
@@ -156,8 +161,8 @@
 
         separador  
 
-        #t_4_4.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 4.4 Adaptación 
+        #t_4_5.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.5 Técnicas de adaptación a medios 
         .mb-3
 
         p.mb-3 La adaptación de contenidos es el proceso de modificar y ajustar los mensajes, formatos y estructura de la información según el medio o plataforma en el que se distribuirá. Este ajuste es esencial para garantizar que la comunicación sea efectiva y que el contenido mantenga su impacto independientemente del canal de distribución.

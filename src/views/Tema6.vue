@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Técnicas de escritura
+      h1 Técnicas de escritura para contenidos narrativos
     
     .bloque-texto-t.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-right")
       .bloque-texto-t__img.mb-0
@@ -19,7 +19,7 @@
         separador  
 
         #t_6_1.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 6.1 Redacción persuasiva y creativa
+          .h2(data-aos="fade-right") 6.1 Redacción persuasiva y creativa 
         .mb-3
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-7.order-2.order-lg-1
@@ -93,7 +93,7 @@
     separador  
 
     #t_6_3.titulo-segundo.color-acento-contenido
-      .h2(data-aos="fade-right") 6.3 Mensajes breves
+      .h2(data-aos="fade-right") 6.3 Historias en mensajes breves
     .mb-3
     
     .tarjeta.color-terciario-5.rounded-0.p-3.p-lg-0.mb-5(data-aos="fade-left")

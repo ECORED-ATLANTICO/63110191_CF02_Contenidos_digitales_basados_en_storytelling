@@ -36,23 +36,28 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: '<i>Storytelling</i> y su impacto en la comunicación digital',
+        titulo: '<i>Storytelling</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Elementos narrativos',
+            titulo: 'Concepto',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Importancia en el <i>marketing</i>',
+            titulo: 'Elementos narrativos',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: 'Conexiones emocionales',
+            titulo: 'Importancia en el <i>marketing</i>',
             hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Conexiones emocionales',
+            hash: 't_1_4',
           },
         ],
       },
@@ -93,23 +98,28 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Definición de objetivos',
+            titulo: 'Concepto',
             hash: 't_3_1',
           },
           {
             numero: '3.2',
-            titulo: 'Calendarios de publicación',
+            titulo: 'Definición de objetivos',
             hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: 'Mapas de contenido',
+            titulo: 'Calendarios',
             hash: 't_3_3',
           },
           {
             numero: '3.4',
-            titulo: 'Herramientas para planificación',
+            titulo: 'Mapas de contenido',
             hash: 't_3_4',
+          },
+          {
+            numero: '3.5',
+            titulo: 'Herramientas digitales',
+            hash: 't_3_5',
           },
         ],
       },
@@ -121,49 +131,58 @@ export default {
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'Tipos y características de contenido digitals',
+            titulo: 'Fundamentos',
             hash: 't_4_1',
           },
           {
             numero: '4.2',
-            titulo: 'Proceso de producción de contenidos',
+            titulo: 'Tipos y características',
             hash: 't_4_2',
           },
           {
             numero: '4.3',
-            titulo: 'Técnicas de redacción persuasiva y narrativa digital',
+            titulo: 'Proceso',
             hash: 't_4_3',
           },
           {
             numero: '4.4',
-            titulo: 'Adaptación de contenidos',
+            titulo: 'Técnicas de persuasión',
             hash: 't_4_4',
+          },
+          {
+            numero: '4.5',
+            titulo: 'Técnicas de adaptación a medios',
+            hash: 't_4_5',
           },
         ],
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Herramientas de producción para contenidos narrativos',
+        titulo: 'Herramientas de producción',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '5.1',
-            titulo:
-              'Integración de texto, imagen y sonido en piezas narrativas digitales',
+            titulo: 'Texto, imagen y sonido ',
             hash: 't_5_1',
           },
           {
             numero: '5.2',
-            titulo: 'Evaluación de la calidad de los recursos',
+            titulo: 'Video',
             hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Calidad de los recursos',
+            hash: 't_5_3',
           },
         ],
       },
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Técnicas de escritura narrativa en entornos digitales',
+        titulo: 'Técnicas de escritura para contenidos narrativos',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -178,7 +197,7 @@ export default {
           },
           {
             numero: '6.3',
-            titulo: 'Escritura de mensajes breves',
+            titulo: 'Historias en mensajes breves',
             hash: 't_6_3',
           },
         ],

@@ -100,14 +100,23 @@
               .col-12.col-lg-3.order-1.order-lg-2.d-none.d-lg-block
                 img(src="@/assets/curso/temas/tema_5/img_9.png",  class="img-fluid cita-decorada__imagen-flotante-9")
     
-
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10.mb-0
 
         separador  
 
         #t_5_2.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 5.2 Calidad de recursos
+          .h2(data-aos="fade-right") 5.2 Video
+        .mb-3
+    
+
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-10.mb-0
+
+        separador  
+
+        #t_5_3.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 5.3 calidad de los recursos
         .mb-0
 
     .row.justify-content-center.align-items-center
