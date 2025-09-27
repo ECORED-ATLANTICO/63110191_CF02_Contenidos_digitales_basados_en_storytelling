@@ -17,7 +17,11 @@
               p.mb-0.p-3 En un mundo saturado de información, las historias se han convertido en una de las formas más efectivas de comunicar ideas, despertar emociones y captar la atención del público. Antes que los datos o los argumentos racionales, las narrativas logran conectar con las personas porque apelan a su memoria, imaginación y experiencia. Esta capacidad de transformar mensajes en vivencias significativas da origen a una disciplina clave en el marketing, la educación y la comunicación estratégica: el Storytelling.
         separador
 
-      .row.justify-content-center.align-items-center.mb-0        
+      .row.justify-content-center.align-items-center.mb-0     
+        .col-12.col-lg-10
+          #t_1_1.titulo-segundo.color-acento-contenido
+            .h2(data-aos="fade-right") 1.1	Concepto 
+          .mb-0  
         .col-12.col-lg-5
           p.mb-0(data-aos="fade-left") El <em>storytelling</em> es una técnica de comunicación utilizada para transmitir mensajes a través de historias persuasivas, generando conexiones emocionales con el público; su aplicación en el <em>marketing</em> y la gestión de contenido digital permite captar la atención de la audiencia y mejorar la experiencia del usuario.
         .col-12.col-lg-5  
@@ -27,13 +31,9 @@
               h4.mb-0 Según Kotler y Keller (2016), el <em>storytelling</em> consiste en la construcción de relatos estratégicos que buscan influir en las percepciones, emociones y decisiones del consumidor.
               i.fas.fa-quote-right
         separador
-          
-          #t_1_1.titulo-segundo.color-acento-contenido
-            .h2(data-aos="fade-right") 1.1	Concepto 
-          .mb-3
-          
-          
-          separador
+      
+      .row.justify-content-center.align-items-center.mb-0
+        .col-12.col-lg-10
 
           #t_1_2.titulo-segundo.color-acento-contenido
             .h2(data-aos="fade-right") 1.2	Elementos narrativos 
