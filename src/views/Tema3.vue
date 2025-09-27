@@ -7,7 +7,21 @@
         span 3
       h1 Planificación de contenidos
 
+    .bg_img_1.mb-3
+      .row.justify-content-center.align-items-center.mb-0
+        .col-12.col-lg-10.mb-3(data-aos="fade-left")
+          .cita-decorada
+            blockquote.cita-decorada__caja.cita-decorada__caja--fondo-6
+              p.mb-0.p-3 En cualquier estrategia de comunicación, contar con un orden claro para la creación y distribución de mensajes es fundamental para mantener coherencia, relevancia y continuidad. Este enfoque permite anticiparse a las necesidades del público, aprovechar oportunidades en el tiempo adecuado y optimizar los recursos disponibles para lograr mayor impacto.
+        separador
+
     .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-10.mb-0
+        #t_3_1.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 3.1 Concepto 
+        .mb-3
+      
+    
       .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="fade-left")
         figure
           img(src="@/assets/curso/temas/tema_3/img_1.png", class="img-fluid")
@@ -19,15 +33,7 @@
             h4.mb-0 Según <em>Pulizzi</em> (2018), la planificación de contenidos consiste en el diseño de estrategias organizadas para la creación, publicación y distribución de información, con el objetivo de cumplir metas comerciales y comunicacionales.
             i.fas.fa-quote-right
 
-    .row.justify-content-center.align-items-center.mb-3
-      .col-12.col-lg-10.mb-4 
-        separador  
-
-      #t_3_1.titulo-segundo.color-acento-contenido
-        .h2(data-aos="fade-right") 3.1 Concepto 
-      .mb-3
-      p.mb-3 Cada estrategia de contenido debe estar alineada con objetivos claros que guíen su implementación; algunos de los más comunes incluyen:
-
+  
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10.mb-0
         separador  

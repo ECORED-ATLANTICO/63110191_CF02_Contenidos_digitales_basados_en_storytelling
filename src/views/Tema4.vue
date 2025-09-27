@@ -25,9 +25,15 @@
         #t_4_1.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 4.1	Fundamentos 
         .mb-3
+    
+      .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="fade-left")
+        figure
+          img(src="@/assets/curso/temas/tema_4/img_19.png", class="img-fluid")
+      .col-12.col-lg-7(data-aos="fade-left")
+        p.mb-3 La producción de contenidos se sustenta en una planificación que parte de objetivos claros y del conocimiento profundo del público al que se dirige. Su desarrollo requiere definir un mensaje central, organizar los procesos de creación y elegir los formatos y canales más adecuados. La creatividad, apoyada en técnicas de narrativa y diseño, garantiza que el material sea atractivo, mientras que la calidad técnica asegura profesionalismo en cada pieza. Finalmente, la medición de resultados permite ajustar estrategias y optimizar futuros contenidos para lograr mayor impacto.
 
+      .col-12.col-lg-10
         separador  
-
         #t_4_2.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 4.2	Tipos y características  
         .mb-3

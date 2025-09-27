@@ -101,14 +101,19 @@
                 img(src="@/assets/curso/temas/tema_5/img_9.png",  class="img-fluid cita-decorada__imagen-flotante-9")
     
     .row.justify-content-center.align-items-center.mb-0
-      .col-12.col-lg-10.mb-0
-
+      .col-12.col-lg-12.mb-0
         separador  
-
         #t_5_2.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 5.2 Video
-        .mb-3
-    
+        .mb-2
+        
+      .row.justify-content-center.align-items-center.mb-0
+        .col-12.col-lg-5.mb-lg-0.mb-3.p-0
+          figure.p-0
+            img(src="@/assets/curso/temas/tema_5/img_13.png", class="img-fluid").p-0
+        .col-12.col-lg-7.p-3
+          p.mb-3 El video es una de las herramientas más potentes en la producción de contenidos, ya que combina imagen, sonido y narrativa para transmitir mensajes de manera dinámica y atractiva. Su versatilidad permite adaptarse a múltiples formatos como tutoriales, entrevistas, videos corporativos, campañas publicitarias o contenido para redes sociales. En el proceso de producción, el video requiere planificación (guion, storyboard, locaciones), grabación con equipos adecuados (cámaras, iluminación, micrófonos) y una fase de edición donde se integran efectos, música, gráficos o subtítulos para mejorar la calidad y el impacto visual. Gracias a su capacidad para generar emociones y explicar ideas complejas en poco tiempo, el video se ha convertido en un recurso esencial para captar la atención, fortalecer marcas y facilitar el aprendizaje.
+
 
     .row.justify-content-center.align-items-center.mb-0
       .col-12.col-lg-10.mb-0
